@@ -1,0 +1,314 @@
+{
+  "アイビイ（Ivey, A. E.）": {
+    "level": "3",
+    "fullname": "アレン・E・アイビイ（Allen E. Ivey）",
+    "desc": [
+      "<div>サンプル説明<br><span style='color:orange'>ぷるぷる</span></div>"
+    ],
+    "memo": "",
+    "keywords": [
+      "マイクロ技法（マイクロカウンセリング）"
+    ]
+  },
+  "アルダファ（Alderfer, C. P.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "ウイリアムソン（Williamson, E. G.）": {
+    "level": "1",
+    "fullname": "エドムンド・G・ウイリアムソン（Edmund Griffith Williamson）",
+    "desc": [
+      "1925年にイリノイ大学で学士号、1931年にミネソタ大学で博士号を取得後、ミネソタ大学にて心理学の助教授兼ミネソタテスト局（現ミネソタ大学カウンセリング・コンサルティングセンター）のディレクターとなる。",
+      "1938年には学生パーソナルサービスのコーディネーターとなり、1939年には“How to Counsel Students”を著した。",
+      "心理検査やアセスメントツールを用いて効果的な就職支援を行った。<br>また、学生生活における心理的・経済的な悩みなど学生生活全般を支援するカウンセリングを展開した。",
+      "1941年に教授兼学生部長に昇進、1969年に退職。",
+      "パーソンズ（Parsons, F.）の職業選択理論の流れを踏まえ、特性因子論に基づくカウンセリングを構成した。",
+      "キャリアに関する課題は「選択しない」「不確かな選択」「賢明でない選択」「興味と適性のズレ」の4つに分類でき、キャリアカウンセリング実施にあたっては6段階のカウンセリングプロセス（分析、総合、診断、予後、処置、追指導）を経るべきであるとした。"
+    ],
+    "memo": "",
+    "keywords": [
+      "パーソンズ（Parsons, F.）",
+      "特性因子理論（マッチング理論）"
+    ]
+  },
+  "ウォルピ（Wolpe, J）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "エリクソン（Erikson, E. H.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      "ライフサイクル理論",
+      "アイデンティティ理論"
+    ]
+  },
+  "エリス（Ellis, A.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "カーカフ（Carkhuff, R. R.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      "ヘルピング技法"
+    ]
+  },
+  "クランボルツ（Krumboltz, J. D.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      "キャリア理論"
+    ]
+  },
+  "サビカス（Savickas, M. L.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      "キャリア構築理論"
+    ]
+  },
+  "ジェラット（Gelatt, H. B.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "ジェンドリン（Gendlin, E. T.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "シャイン（Schein, E. H.）": {
+    "level": "3",
+    "fullname": "エドガー・H・シャイン（Edger Henry Schein）",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "シュロスバーグ（Schein, N. K.）": {
+    "level": "3",
+    "fullname": "ナンシー・K・シュロスバーグ（Nancy K. Schlossberg）",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "スーパー（Super, D. E.）": {
+    "level": "3",
+    "fullname": "ドナルド・E・スーパー（Donald E. Super）",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      "キャリア発達理論",
+      "発達課題",
+      "ライフステージ"
+    ]
+  },
+  "デュセイ（Dusay, J. M.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "ハーシーとブランチャード（Hersey, P. & Blanchard, K. H.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      "SL（Situational Leadership）理論"
+    ]
+  },
+  "ハーズバーグ（Herzberg, F.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "パーソンズ（Parsons, F.）": {
+    "level": "3",
+    "fullname": "フランク・パーソンズ（Frank Parsons）",
+    "desc": [
+      "職業指導[運動]の祖として知られる。<br>土木技師、製鉄所、公立高校教師、法律家、出版編集者、大学教員など多くの経歴を持つ。<br>1905年にボストン市に設立された労働者のための学校「ブレットウィナーズ・インスティテュート」に校長として招聘される。<br>校長として従事する中で、そこを訪れる労働者が平均6回も転職を繰り返している現実に気づき、同施設内に職業局を置き、友人とともに職業カウンセラーとなる。<br>また、並行してボストンYMCAで職業カウンセラーの養成事業にも乗り出した。"
+    ],
+    "memo": "",
+    "keywords": [
+      "職業指導[運動]",
+      "職業の選択",
+      "丸い釘は丸い穴に",
+      "特性因子理論"
+    ]
+  },
+  "パールズ（Perls, F. S.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      "ゲシュタルト療法"
+    ]
+  },
+  "バーン（Berne, E.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "ハックマンとオルダム（Hackman, J. R. & Oldham, G. R.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "フランクル（Frankl, V. E.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "フロイト（Freud, S.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "ブリッジズ（Bridges, W.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "ベック（Beck, A. T.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      "認知療法"
+    ]
+  },
+  "ホール（Hall, D. T.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      "プロティアン・キャリア"
+    ]
+  },
+  "ホランド（Holland, J. L.）": {
+    "level": "3",
+    "fullname": "ジョン・L・ホランド（John Lewis Holland）",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      ""
+    ]
+  },
+  "マクレランド（McClelland, D. C.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "マーシャ（Marcia, J. E.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [
+      "アイデンティティ・ステイタス"
+    ]
+  },
+  "マズロー（Maslow, A. H.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "モレノ（Moreno, J. L.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "レビンソン（Levinson, D. J.）": {
+    "level": "3",
+    "fullname": "ダニエル・J・レビンソン（Daniel J. Levinson）",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "レヴィン（Lewin, K.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "ロジャーズ（Rogers, C. R.）": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "岡本祐子": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "吉本伊信": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "國分康孝": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  },
+  "森田正馬": {
+    "level": "3",
+    "fullname": "",
+    "desc": [""],
+    "memo": "",
+    "keywords": [""]
+  }
+}

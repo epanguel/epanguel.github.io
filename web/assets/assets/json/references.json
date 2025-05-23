@@ -1,0 +1,74 @@
+{
+  "career_counseling": {
+    "book": [
+      {
+        "name": "キャリア理論家・心理学者77人の人物で学ぶキャリア理論",
+        "author": "渡部昌平",
+        "publisher": "福村出版",
+        "publish_year": "2022"
+      },
+      {
+        "name": "カウンセリングの理論",
+        "author": "國分康孝",
+        "publisher": "誠信書房",
+        "publish_year": "1980"
+      },
+      {
+        "name": "新版 キャリアの心理学［第２版］",
+        "author": "渡辺三枝子",
+        "publisher": "ナカニシヤ出版",
+        "publish_year": "2018"
+      },
+      {
+        "name": "人材育成の進め方",
+        "author": "桐村晋次",
+        "publisher": "日本経済新聞出版社",
+        "publish_year": "2005"
+      }
+    ],
+    "web": [
+      {
+        "page_name": "キャリア・カウンセリング、ガイダンスそしてコンサルティングへ",
+        "website_name": "一般財団法人日本職業協会",
+        "author": "木村周",
+        "url": "http://www.shokugyo-kyokai.or.jp/shiryou/shokugyo/02-1.html",
+        "access_date": "2025-05-19"
+      },
+      {
+        "page_name": "わが国職業紹介・職業指導の系譜　―その過去、現在、未来―",
+        "website_name": "一般財団法人日本職業協会",
+        "author": "木村周",
+        "url": "http://www.shokugyo-kyokai.or.jp/shiryou/shokugyo/03-1.html",
+        "access_date": "2025-05-19"
+      },
+      {
+        "page_name": "キャリアコンサルティング　―その過去、現在、未来―",
+        "website_name": "一般財団法人日本職業協会",
+        "author": "木村周",
+        "url": "http://www.shokugyo-kyokai.or.jp/shiryou/shokugyo/04-1.html",
+        "access_date": "2025-05-19"
+      },
+      {
+        "page_name": "キャリアコンサルタント大辞典",
+        "website_name": "リカレント",
+        "author": "リカレント",
+        "url": "https://www.recurrent.co.jp/career/",
+        "access_date": "2025-05-19"
+      },
+      {
+        "page_name": "EARTHSHIP CONSULTING",
+        "website_name": "EARTHSHIP CONSULTING",
+        "author": "松山淳",
+        "url": "https://www.earthship-c.com/",
+        "access_date": "2025-05-19"
+      },
+      {
+        "page_name": "Talent Management Lab",
+        "website_name": "Talent Management Lab",
+        "author": "株式会社プラスアルファ・コンサルティング",
+        "url": "https://www.pa-consul.co.jp/talentpalette/TalentManagementLab/",
+        "access_date": "2025-05-19"
+      }
+    ]
+  }
+}
