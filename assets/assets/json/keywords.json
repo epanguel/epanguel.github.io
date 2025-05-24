@@ -2,7 +2,7 @@
   "career_counseling": [
     {
       "マイクロ技法（マイクロカウンセリング）": {
-        "human": [
+        "relevant_humans": [
           "アイビイ（Ivey, A. E.）"
         ],
         "desc": [
@@ -10,68 +10,98 @@
         ]
       },
       "ライフサイクル理論（ユング）": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "アイデンティティ理論（エリクソン）": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "ヘルピング技法": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "キャリア理論": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "キャリア構築理論": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "キャリア発達理論": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "発達課題": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "ライフステージ": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "SL（Situational Leadership）理論": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "職業選択理論": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "ゲシュタルト療法": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "認知療法": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "プロティアン・キャリア": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       },
       "アイデンティティ・ステイタス": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       }
     }
   ],
   "mental_health": [
     {
       "": {
-        "human": [""],
-        "desc": [""]
+        "relevant_humans": [],
+        "desc": [
+          ""
+        ]
       }
     }
   ]

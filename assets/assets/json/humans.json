@@ -2,6 +2,7 @@
   "アイビイ（Ivey, A. E.）": {
     "level": "3",
     "fullname": "アレン・E・アイビイ（Allen E. Ivey）",
+    "gender": "",
     "desc": [
       "<div>サンプル説明<br><span style='color:orange'>ぷるぷる</span></div>"
     ],
@@ -13,13 +14,19 @@
   "アルダファ（Alderfer, C. P.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "ウイリアムソン（Williamson, E. G.）": {
     "level": "1",
     "fullname": "エドムンド・G・ウイリアムソン（Edmund Griffith Williamson）",
+    "gender": "",
     "desc": [
       "1925年にイリノイ大学で学士号、1931年にミネソタ大学で博士号を取得後、ミネソタ大学にて心理学の助教授兼ミネソタテスト局（現ミネソタ大学カウンセリング・コンサルティングセンター）のディレクターとなる。",
       "1938年には学生パーソナルサービスのコーディネーターとなり、1939年には“How to Counsel Students”を著した。",
@@ -37,14 +44,22 @@
   "ウォルピ（Wolpe, J）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "エリクソン（Erikson, E. H.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       "ライフサイクル理論",
@@ -54,14 +69,22 @@
   "エリス（Ellis, A.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "カーカフ（Carkhuff, R. R.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       "ヘルピング技法"
@@ -70,7 +93,10 @@
   "クランボルツ（Krumboltz, J. D.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       "キャリア理論"
@@ -79,7 +105,10 @@
   "サビカス（Savickas, M. L.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       "キャリア構築理論"
@@ -88,35 +117,58 @@
   "ジェラット（Gelatt, H. B.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "ジェンドリン（Gendlin, E. T.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "シャイン（Schein, E. H.）": {
     "level": "3",
     "fullname": "エドガー・H・シャイン（Edger Henry Schein）",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "シュロスバーグ（Schein, N. K.）": {
     "level": "3",
     "fullname": "ナンシー・K・シュロスバーグ（Nancy K. Schlossberg）",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "スーパー（Super, D. E.）": {
     "level": "3",
     "fullname": "ドナルド・E・スーパー（Donald E. Super）",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       "キャリア発達理論",
@@ -127,14 +179,22 @@
   "デュセイ（Dusay, J. M.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "ハーシーとブランチャード（Hersey, P. & Blanchard, K. H.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       "SL（Situational Leadership）理論"
@@ -143,13 +203,19 @@
   "ハーズバーグ（Herzberg, F.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "パーソンズ（Parsons, F.）": {
     "level": "3",
     "fullname": "フランク・パーソンズ（Frank Parsons）",
+    "gender": "",
     "desc": [
       "職業指導[運動]の祖として知られる。<br>土木技師、製鉄所、公立高校教師、法律家、出版編集者、大学教員など多くの経歴を持つ。<br>1905年にボストン市に設立された労働者のための学校「ブレットウィナーズ・インスティテュート」に校長として招聘される。<br>校長として従事する中で、そこを訪れる労働者が平均6回も転職を繰り返している現実に気づき、同施設内に職業局を置き、友人とともに職業カウンセラーとなる。<br>また、並行してボストンYMCAで職業カウンセラーの養成事業にも乗り出した。"
     ],
@@ -164,7 +230,10 @@
   "パールズ（Perls, F. S.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       "ゲシュタルト療法"
@@ -173,42 +242,70 @@
   "バーン（Berne, E.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "ハックマンとオルダム（Hackman, J. R. & Oldham, G. R.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "フランクル（Frankl, V. E.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "フロイト（Freud, S.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "ブリッジズ（Bridges, W.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "ベック（Beck, A. T.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       "認知療法"
@@ -217,7 +314,10 @@
   "ホール（Hall, D. T.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       "プロティアン・キャリア"
@@ -226,7 +326,10 @@
   "ホランド（Holland, J. L.）": {
     "level": "3",
     "fullname": "ジョン・L・ホランド（John Lewis Holland）",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       ""
@@ -235,14 +338,22 @@
   "マクレランド（McClelland, D. C.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "マーシャ（Marcia, J. E.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
     "keywords": [
       "アイデンティティ・ステイタス"
@@ -251,64 +362,109 @@
   "マズロー（Maslow, A. H.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "モレノ（Moreno, J. L.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "レビンソン（Levinson, D. J.）": {
     "level": "3",
     "fullname": "ダニエル・J・レビンソン（Daniel J. Levinson）",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "レヴィン（Lewin, K.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "ロジャーズ（Rogers, C. R.）": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "岡本祐子": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "吉本伊信": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "男",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "國分康孝": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "男",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   },
   "森田正馬": {
     "level": "3",
     "fullname": "",
-    "desc": [""],
+    "gender": "男",
+    "desc": [
+      ""
+    ],
     "memo": "",
-    "keywords": [""]
+    "keywords": [
+      ""
+    ]
   }
 }
