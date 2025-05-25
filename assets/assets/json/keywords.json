@@ -9,13 +9,13 @@
           "サンプル"
         ]
       },
-      "ライフサイクル理論（ユング）": {
+      "ライフサイクル理論": {
         "relevant_humans": [],
         "desc": [
           ""
         ]
       },
-      "アイデンティティ理論（エリクソン）": {
+      "アイデンティティ理論": {
         "relevant_humans": [],
         "desc": [
           ""
@@ -27,20 +27,18 @@
           ""
         ]
       },
-      "キャリア理論": {
-        "relevant_humans": [],
-        "desc": [
-          ""
-        ]
-      },
       "キャリア構築理論": {
-        "relevant_humans": [],
+        "relevant_humans": [
+          "サビカス（Savickas, M. L.）"
+        ],
         "desc": [
           ""
         ]
       },
       "キャリア発達理論": {
-        "relevant_humans": [],
+        "relevant_humans": [
+          "スーパー（Super, D. E.）"
+        ],
         "desc": [
           ""
         ]
