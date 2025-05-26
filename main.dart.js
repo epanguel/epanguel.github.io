@@ -39922,7 +39922,7 @@ return A.Y(p,$async$xI)
 case 2:q.az(new A.aly(q))
 return A.S(null,r)}})
 return A.T($async$xI,r)},
-N(a){var s=null,r=A.ayC("assets/img/background/entrance01.jpg",s,s,B.hE,1/0,s,1/0)
+N(a){var s=null,r=A.ayC("assets/img/background/entrance02.jpg",s,s,B.hE,1/0,s,1/0)
 return A.qq(B.P,A.c([r,A.aI_(!this.d?B.Ju:new A.JY(this.a.c,s,s,s,s,s,s,!1,s,!0,s,B.axd,B.ayE),B.bA,A.aRG())],t.p),B.a6,B.cM,s)}}
 A.aly.prototype={
 $0(){this.a.d=!0},
