@@ -83,5 +83,49 @@
         "access_date": "2025-05-25"
       }
     ]
+  },
+  "mental_health": {
+    "book": [
+      {
+        "name": "メンタルヘルス・マネジメント®検定Ⅱ種・Ⅲ種 テキスト＆問題集 第３版",
+        "author": "一般社団法人国際EAP協会日本支部",
+        "publisher": "翔泳社",
+        "publish_year": "2021"
+      },
+      {
+        "name": "メンタルヘルス・マネジメント®検定試験公式テキスト〔第５版〕［Ⅱ種　ラインケアコース］",
+        "author": "大阪商工会議所",
+        "publisher": "中央経済社",
+        "publish_year": "2021"
+      },
+      {
+        "name": "メンタルヘルス・マネジメント®検定試験公式テキスト〔第５版〕［Ⅲ種　セルフケアコース］",
+        "author": "大阪商工会議所",
+        "publisher": "中央経済社",
+        "publish_year": "2021"
+      },
+      {
+        "name": "",
+        "author": "",
+        "publisher": "",
+        "publish_year": ""
+      }
+    ],
+    "web": [
+      {
+        "page_name": "ストレスのセルフケア",
+        "website_name": "公益財団法人パブリックヘルスリサーチセンター",
+        "author": "公益財団法人パブリックヘルスリサーチセンター",
+        "url": "https://www.phrf.jp/ssl/learn/selfcare",
+        "access_date": "2025-06-03"
+      },
+      {
+        "page_name": "",
+        "website_name": "",
+        "author": "",
+        "url": "",
+        "access_date": ""
+      }
+    ]
   }
 }

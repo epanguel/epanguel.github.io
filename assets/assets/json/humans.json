@@ -1,10 +1,26 @@
 {
+  "サンプル": {
+    "level": "3",
+    "fullname": "サンプルフルネーム",
+    "gender": "",
+    "desc": [
+      "サンプル説明<span style='color:orange'>ぷるぷる</span>"
+    ],
+    "memo": "",
+    "keywords": [
+      "サンプルキーワード"
+    ]
+  },
   "アイビイ（Ivey, A. E.）": {
     "level": "3",
     "fullname": "アレン・E・アイビイ（Allen E. Ivey）",
-    "gender": "",
+    "gender": "男性",
     "desc": [
-      "<div>サンプル説明<br><span style='color:orange'>ぷるぷる</span></div>"
+      "1933年にワシントン州に生まれた。",
+      "スタンフォード大学で心理学、ハーバード大学でカウンセリング・ガイダンスを専攻し、教育学博士の学位を取得した。",
+      "コロラド州立大学の准教授兼カウンセリングセンター長を務め、1988年にはマサチューセッツ大学のカウンセリング心理学部の教授に就任した。",
+      "カウンセリング心理学に関する『Journal of Counseling Psychology』の創刊・編集に携わり、アメリカ心理学会カウンセリング心理学部会の会長・フェロー・理事を歴任した。",
+      "仲間の研究者と有効なカウンセリングついて模索する中で、当時の精神分析・行動療法・クライエント中心療法などの技法から共通要素を抜き出し、「<span style='color:orange'>マイクロ技法（マイクロカウンセリング）</span>」としてまとめた。"
     ],
     "memo": "",
     "keywords": [
@@ -13,26 +29,27 @@
   },
   "アルダファ（Alderfer, C. P.）": {
     "level": "3",
-    "fullname": "",
-    "gender": "",
+    "fullname": "クレイトン・P・アルダファ（Clayton Paul Alderfer）",
+    "gender": "男性",
     "desc": [
       ""
     ],
     "memo": "",
     "keywords": [
-      ""
+      "",
+      "マズロー（Maslow, A. H.）"
     ]
   },
   "ウイリアムソン（Williamson, E. G.）": {
-    "level": "1",
+    "level": "3",
     "fullname": "エドムンド・G・ウイリアムソン（Edmund Griffith Williamson）",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       "1925年にイリノイ大学で学士号、1931年にミネソタ大学で博士号を取得後、ミネソタ大学にて心理学の助教授兼ミネソタテスト局（現ミネソタ大学カウンセリング・コンサルティングセンター）のディレクターとなる。",
-      "1938年には学生パーソナルサービスのコーディネーターとなり、1939年には“How to Counsel Students”を著した。",
+      "1938年には学生パーソナルサービスのコーディネーターとなり、1939年には『How to Counsel Students』を著した。",
       "心理検査やアセスメントツールを用いて効果的な就職支援を行う一方、学生生活における心理的・経済的な悩みなど学生生活全般を支援するカウンセリングを展開した。",
       "1941年に教授兼学生部長に昇進、1969年に退職。",
-      "パーソンズ（Parsons、F.）の職業選択理論の流れを踏まえ、特性因子論に基づくカウンセリングを構成した。",
+      "パーソンズ（Parsons, F.）の職業選択理論の流れを踏まえ、特性因子論に基づくカウンセリングを構成した。",
       "キャリアに関する課題は「選択しない」「不確かな選択」「賢明でない選択」「興味と適性のズレ」の4つに分類でき、キャリアカウンセリング実施にあたっては6段階のカウンセリングプロセス（分析、総合、診断、予後、処置、追指導）を経るべきであるとした。"
     ],
     "memo": "",
@@ -43,20 +60,26 @@
   },
   "ウォルピ（Wolpe, J）": {
     "level": "3",
-    "fullname": "",
-    "gender": "",
+    "fullname": "ジョセフ・ウォルピ（Joseph Wolpe）",
+    "gender": "男性",
     "desc": [
-      ""
+      "1915年に南アフリカのヨハネスブルグで生まれた。",
+      "ミッドウォーターズ大学で医師資格を取得し、第二次世界大戦中の1944年にイギリス軍に軍医として従軍した。",
+      "神経症症状（当時の呼称は戦争神経症）を発症した兵士たちの診察と治療をする中で、フロイトの精神分析の効果に疑問を持ち、行動療法を試すようになる。",
+      "第2次世界大戦後は、“行動療法のパイオニア”“行動療法の父”と言われた。",
+      "1956年にアメリカに渡りスタンフォード大学で数年を過ごし、1960年にパージニア大学に異動、1965年にはテンプル大学の医療センターに異動した。",
+      "ネコによる動物実験により、「逆制止理論」や「<span style='color:orange'>系統的脱感作法</span>」を生み出した。"
     ],
     "memo": "",
     "keywords": [
-      ""
+      "逆制止理論",
+      "系統的脱感作法"
     ]
   },
   "エリクソン（Erikson, E. H.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -69,7 +92,7 @@
   "エリス（Ellis, A.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -81,7 +104,7 @@
   "カーカフ（Carkhuff, R. R.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -93,7 +116,7 @@
   "クランボルツ（Krumboltz, J. D.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -105,7 +128,7 @@
   "サビカス（Savickas, M. L.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -117,7 +140,7 @@
   "ジェラット（Gelatt, H. B.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -129,7 +152,7 @@
   "ジェンドリン（Gendlin, E. T.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -141,7 +164,7 @@
   "シャイン（Schein, E. H.）": {
     "level": "3",
     "fullname": "エドガー・H・シャイン（Edger Henry Schein）",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -153,7 +176,7 @@
   "シュロスバーグ（Schein, N. K.）": {
     "level": "3",
     "fullname": "ナンシー・K・シュロスバーグ（Nancy K. Schlossberg）",
-    "gender": "",
+    "gender": "女性",
     "desc": [
       ""
     ],
@@ -165,7 +188,7 @@
   "スーパー（Super, D. E.）": {
     "level": "3",
     "fullname": "ドナルド・E・スーパー（Donald E. Super）",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -215,7 +238,7 @@
   "パーソンズ（Parsons, F.）": {
     "level": "3",
     "fullname": "フランク・パーソンズ（Frank Parsons）",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       "職業指導[運動]の祖として知られる。",
       "土木技師、製鉄所、公立高校教師、法律家、出版編集者、大学教員など多くの経歴を持つ。",
@@ -234,7 +257,7 @@
   "パールズ（Perls, F. S.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -246,7 +269,7 @@
   "バーン（Berne, E.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -270,7 +293,7 @@
   "フランクル（Frankl, V. E.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -282,7 +305,7 @@
   "フロイト（Freud, S.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -294,7 +317,7 @@
   "ブリッジズ（Bridges, W.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -306,7 +329,7 @@
   "ベック（Beck, A. T.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -318,7 +341,7 @@
   "ホール（Hall, D. T.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -330,7 +353,7 @@
   "ホランド（Holland, J. L.）": {
     "level": "3",
     "fullname": "ジョン・L・ホランド（John Lewis Holland）",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -342,7 +365,7 @@
   "マクレランド（McClelland, D. C.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -354,7 +377,7 @@
   "マーシャ（Marcia, J. E.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -366,7 +389,7 @@
   "マズロー（Maslow, A. H.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -390,7 +413,7 @@
   "レビンソン（Levinson, D. J.）": {
     "level": "3",
     "fullname": "ダニエル・J・レビンソン（Daniel J. Levinson）",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -402,7 +425,7 @@
   "レヴィン（Lewin, K.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -414,7 +437,7 @@
   "ロジャーズ（Rogers, C. R.）": {
     "level": "3",
     "fullname": "",
-    "gender": "",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -438,7 +461,7 @@
   "吉本伊信": {
     "level": "3",
     "fullname": "",
-    "gender": "男",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -450,7 +473,7 @@
   "國分康孝": {
     "level": "3",
     "fullname": "",
-    "gender": "男",
+    "gender": "男性",
     "desc": [
       ""
     ],
@@ -462,7 +485,7 @@
   "森田正馬": {
     "level": "3",
     "fullname": "",
-    "gender": "男",
+    "gender": "男性",
     "desc": [
       ""
     ],
