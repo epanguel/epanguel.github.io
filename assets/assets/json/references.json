@@ -30,6 +30,12 @@
         "author": "桐村晋次",
         "publisher": "日本経済新聞出版社",
         "publish_year": "2005"
+      },
+      {
+        "name": "3日でわかる心理学",
+        "author": "大村政男",
+        "publisher": "ダイヤモンド社",
+        "publish_year": "2001"
       }
     ],
     "web": [
@@ -81,6 +87,41 @@
         "author": "株式会社ホリスティックコミュニケーション",
         "url": "https://holistic-com.co.jp/",
         "access_date": "2025-05-25"
+      },
+      {
+        "page_name": "日本内観学会",
+        "website_name": "日本内観学会",
+        "author": "日本内観学会",
+        "url": "https://jpnaikan.jp/index.html",
+        "access_date": "2025-06-06"
+      },
+      {
+        "page_name": "日本内観医学会",
+        "website_name": "日本内観医学会",
+        "author": "日本内観医学会",
+        "url": "http://naikan-igaku.jp/index.html",
+        "access_date": "2025-06-06"
+      },
+      {
+        "page_name": "日本森田療法学会",
+        "website_name": "日本森田療法学会",
+        "author": "日本森田療法学会",
+        "url": "https://www.jps-morita.jp/",
+        "access_date": "2025-06-08"
+      },
+      {
+        "page_name": "東京慈恵会医科大学　森田療法センター",
+        "website_name": "東京慈恵会医科大学　森田療法センター",
+        "author": "東京慈恵会医科大学　森田療法センター",
+        "url": "https://morita-jikei.jp/",
+        "access_date": "2025-06-08"
+      },
+      {
+        "page_name": "シリーズ「ヴィクトール・フランクル」 - こころの時代〜宗教・人生",
+        "website_name": "NHK",
+        "author": "NHK",
+        "url": "https://www.nhk.jp/p/ts/X83KJR6973/blog/bl/peNqP4lG9Z/",
+        "access_date": "2025-06-08"
       }
     ]
   },
