@@ -144,12 +144,6 @@
         "author": "大阪商工会議所",
         "publisher": "中央経済社",
         "publish_year": "2021"
-      },
-      {
-        "name": "",
-        "author": "",
-        "publisher": "",
-        "publish_year": ""
       }
     ],
     "web": [
@@ -159,13 +153,6 @@
         "author": "公益財団法人パブリックヘルスリサーチセンター",
         "url": "https://www.phrf.jp/ssl/learn/selfcare",
         "access_date": "2025-06-03"
-      },
-      {
-        "page_name": "",
-        "website_name": "",
-        "author": "",
-        "url": "",
-        "access_date": ""
       }
     ]
   }
