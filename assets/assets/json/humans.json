@@ -35,7 +35,7 @@
     ]
   },
   "ウイリアムソン（Williamson, E. G.）": {
-    "level": "3",
+    "level": "1",
     "fullname": "エドムンド・G・ウイリアムソン（Edmund Griffith Williamson）",
     "gender": "男性",
     "desc": [
@@ -134,7 +134,7 @@
     ]
   },
   "クランボルツ（Krumboltz, J. D.）": {
-    "level": "3",
+    "level": "5",
     "fullname": "ジョン・D・クランボルツ（John D. Krumboltz）",
     "gender": "男性",
     "desc": [
@@ -158,7 +158,7 @@
     ]
   },
   "サビカス（Savickas, M. L.）": {
-    "level": "3",
+    "level": "5",
     "fullname": "マーク・L・サビカス（Mark. L. Savickas）",
     "gender": "男性",
     "desc": [
@@ -181,7 +181,7 @@
     ]
   },
   "ジェラット（Gelatt, H. B.）": {
-    "level": "3",
+    "level": "5",
     "fullname": "ハリイ・B・ジェラット（Harry B. Gelatt）",
     "gender": "男性",
     "desc": [
@@ -250,7 +250,7 @@
     ]
   },
   "スーパー（Super, D. E.）": {
-    "level": "3",
+    "level": "5",
     "fullname": "ドナルド・E・スーパー（Donald E. Super）",
     "gender": "男性",
     "desc": [
@@ -273,6 +273,17 @@
       "ライフスペース",
       "ライフステージ"
     ]
+  },
+  "スキナー（Skinner, B. F.）": {
+    "level": "3",
+    "fullname": "",
+    "gender": "",
+    "desc": [
+      "-"
+    ],
+    "memo": "",
+    "relevant_humans": [],
+    "keywords": []
   },
   "デュセイ（Dusay, J. M.）": {
     "level": "3",
@@ -318,7 +329,7 @@
     ]
   },
   "パーソンズ（Parsons, F.）": {
-    "level": "3",
+    "level": "5",
     "fullname": "フランク・パーソンズ（Frank Parsons）",
     "gender": "男性",
     "desc": [
@@ -391,6 +402,17 @@
       "職務特性理論"
     ]
   },
+  "バンデューラ（Bandura, A.）": {
+    "level": "3",
+    "fullname": "",
+    "gender": "",
+    "desc": [
+      "-"
+    ],
+    "memo": "",
+    "relevant_humans": [],
+    "keywords": []
+  },
   "フランクル（Frankl, V. E.）": {
     "level": "3",
     "fullname": "ヴィクトール・E・フランクル（Viktor Emil Frankl）",
@@ -414,6 +436,17 @@
     "keywords": [
       "ロゴセラピー（実存分析）"
     ]
+  },
+  "ブルースティン（Blustein, D. L.）": {
+    "level": "3",
+    "fullname": "",
+    "gender": "",
+    "desc": [
+      "-"
+    ],
+    "memo": "",
+    "relevant_humans": [],
+    "keywords": []
   },
   "フロイト（Freud, S.）": {
     "level": "3",
@@ -442,7 +475,7 @@
     ]
   },
   "ユング（Jung, C. G. ）": {
-    "level": "3",
+    "level": "1",
     "fullname": "カール・G・ユング（Carl Gustav Jung）",
     "gender": "男性",
     "desc": [
@@ -513,7 +546,7 @@
     ]
   },
   "ホランド（Holland, J. L.）": {
-    "level": "3",
+    "level": "5",
     "fullname": "ジョン・L・ホランド（John Lewis Holland）",
     "gender": "男性",
     "desc": [
@@ -633,7 +666,7 @@
     ]
   },
   "ロジャーズ（Rogers, C. R.）": {
-    "level": "3",
+    "level": "5",
     "fullname": "カール・R・ロジャーズ（Carl Ransom Rogers）",
     "gender": "男性",
     "desc": [

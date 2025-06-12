@@ -153,6 +153,20 @@
         "author": "公益財団法人パブリックヘルスリサーチセンター",
         "url": "https://www.phrf.jp/ssl/learn/selfcare",
         "access_date": "2025-06-03"
+      },
+      {
+        "page_name": "こころの情報サイト",
+        "website_name": "こころの情報サイト",
+        "author": "国立研究開発法人国立精神・神経医療研究センター　精神保健研究所",
+        "url": "https://kokoro.ncnp.go.jp/",
+        "access_date": "2025-06-09"
+      },
+      {
+        "page_name": "こころもメンテしよう",
+        "website_name": "こころもメンテしよう",
+        "author": "厚生労働省",
+        "url": "https://www.mhlw.go.jp/kokoro/youth/index.html",
+        "access_date": "2025-06-09"
       }
     ]
   }
