@@ -479,7 +479,9 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "労働力調査"
+        ],
         "tool": [],
         "law": [],
         "other_term": [
@@ -798,7 +800,8 @@
         "career_term": [],
         "human": [],
         "document": [
-          "「令和3年版働く女性の実情」（厚生労働省、令和4年3月）"
+          "「令和3年版働く女性の実情」（厚生労働省、令和4年3月）",
+          "「令和3年度雇用均等基本調査（結果概要）」（厚生労働省、令和4年7月）"
         ],
         "tool": [],
         "law": [],
@@ -2900,7 +2903,9 @@
         "human": [],
         "document": [],
         "tool": [],
-        "law": [],
+        "law": [
+          "労働基準法"
+        ],
         "other_term": [
           "高度プロフェッショナル制度"
         ],
@@ -2920,7 +2925,9 @@
       },
       "brief": "ハーシーとブランチャード（Hersey, P. & Blanchard, K. H.）の提唱したSL（Situational Leadership）理論について適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "SL（Situational Leadership）理論"
+        ],
         "human": [
           "ハーシーとブランチャード（Hersey, P. & Blanchard, K. H.）"
         ],
@@ -2946,7 +2953,9 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "「令和5年版労働経済の分析」（厚生労働省）"
+        ],
         "tool": [],
         "law": [],
         "other_term": [],
@@ -2968,7 +2977,12 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "労働力調査",
+          "一般職業紹介状況",
+          "賃金構造基本統計調査",
+          "就労条件総合調査"
+        ],
         "tool": [],
         "law": [],
         "other_term": [],
@@ -2990,7 +3004,9 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "「令和5年版労働経済の分析」（厚生労働省）"
+        ],
         "tool": [],
         "law": [],
         "other_term": [],
@@ -3014,7 +3030,12 @@
         "human": [],
         "document": [],
         "tool": [],
-        "law": [],
+        "law": [
+          "労働基準法",
+          "労働組合法",
+          "職業能力開発促進法",
+          "労働契約法"
+        ],
         "other_term": [],
         "support": []
       }
@@ -3037,7 +3058,9 @@
         "document": [],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "出向・転籍"
+        ],
         "support": []
       }
     },
@@ -3059,7 +3082,9 @@
         "document": [],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "時間外労働・休日労働割増賃金"
+        ],
         "support": []
       }
     },
@@ -3144,10 +3169,14 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "「インターンシップを始めとする学生のキャリア形成支援に係る取組の推進に当たっての基本的考え方」（文部科学省、厚生労働省、経済産業省、令和4年一部改正）"
+        ],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "インターンシップ"
+        ],
         "support": []
       }
     },
@@ -3166,10 +3195,14 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "「令和4年度我が国における過労死等の概要及び政府が過労死等の防止のために講じた施策の状況（令和5年版過労死等防止対策白書）」（厚生労働省）"
+        ],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "メンタルヘルス"
+        ],
         "support": []
       }
     },
@@ -3191,7 +3224,9 @@
         "document": [],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "ストレスチェック"
+        ],
         "support": []
       }
     },
@@ -3208,7 +3243,9 @@
       },
       "brief": "多文化キャリアカウンセリングについて適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "多文化キャリアカウンセリング"
+        ],
         "human": [],
         "document": [],
         "tool": [],
@@ -3232,7 +3269,9 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "「ひきこもりの評価・支援に関するガイドライン」（厚生労働省、2010年）"
+        ],
         "tool": [],
         "law": [],
         "other_term": [],
@@ -3274,7 +3313,9 @@
       },
       "brief": "マイクロカウンセリングにおける、カウンセラーの自己開示について不適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "マイクロカウンセリング"
+        ],
         "human": [],
         "document": [],
         "tool": [],
@@ -3296,7 +3337,9 @@
       },
       "brief": "ベーシック・エンカウンター・グループについて不適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "ベーシック・エンカウンター・グループ"
+        ],
         "human": [
           "ロジャーズ（Rogers, C. R.）"
         ],
@@ -3325,7 +3368,9 @@
         "document": [],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "職務経歴書"
+        ],
         "support": []
       }
     },
@@ -3414,7 +3459,9 @@
         "tool": [],
         "law": [],
         "other_term": [],
-        "support": []
+        "support": [
+          "job tag（職業情報提供サイト（日本版O-NET））"
+        ]
       }
     },
     "問42": {
@@ -3435,7 +3482,9 @@
         "document": [],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "啓発的経験"
+        ],
         "support": []
       }
     },
@@ -3477,7 +3526,9 @@
         "career_term": [],
         "human": [],
         "document": [],
-        "tool": [],
+        "tool": [
+          "ジョブ・カード"
+        ],
         "law": [],
         "other_term": [],
         "support": []
@@ -3496,7 +3547,9 @@
       },
       "brief": "職場適応理論に基づく、新たな仕事への適応支援について適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "職場適応理論"
+        ],
         "human": [],
         "document": [],
         "tool": [],
@@ -3564,7 +3617,9 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "「キャリアコンサルタントの継続的な学びの促進等に関する報告書」（厚生労働省、令和2年4月）"
+        ],
         "tool": [],
         "law": [],
         "other_term": [],
@@ -3632,10 +3687,14 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "「令和5年版男女共同参画白書」（内閣府）"
+        ],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "令和モデル"
+        ],
         "support": []
       }
     },
@@ -3654,7 +3713,9 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "「令和5年雇用動向調査」（厚生労働省）"
+        ],
         "tool": [],
         "law": [],
         "other_term": [],
@@ -3676,7 +3737,9 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "「令和5年度能力開発基本調査 調査結果の概要（個人調査）」（厚生労働省）"
+        ],
         "tool": [],
         "law": [],
         "other_term": [],
@@ -3696,7 +3759,9 @@
       },
       "brief": "サビカス（Savickas, M. L.）の提唱するキャリア構築理論について不適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "キャリア構築理論"
+        ],
         "human": [
           "サビカス（Savickas, M. L.）"
         ],
@@ -3720,7 +3785,9 @@
       },
       "brief": "パーソンズ（Parsons, F.）の職業選択理論について適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "職業選択理論"
+        ],
         "human": [
           "パーソンズ（Parsons, F.）"
         ],
@@ -3792,14 +3859,18 @@
       },
       "brief": "スーパー（Super, D. E.）のライフステージと発達課題について適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "ライフステージ"
+        ],
         "human": [
           "スーパー（Super, D. E.）"
         ],
         "document": [],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "発達課題"
+        ],
         "support": []
       }
     },
@@ -3826,7 +3897,9 @@
         "document": [],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "動機づけ"
+        ],
         "support": []
       }
     },
@@ -3843,7 +3916,9 @@
       },
       "brief": "マーシャ（Marcia, J. E.）が示したアイデンティティ・ステイタスの「アイデンティティ拡散」について適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "アイデンティティ・ステイタス"
+        ],
         "human": [
           "マーシャ（Marcia, J. E.）"
         ],
@@ -3867,7 +3942,12 @@
       },
       "brief": "人物と理論等の組み合わせについて適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "エゴグラム",
+          "ゲシュタルト療法",
+          "ロゴセラピー（実存分析）",
+          "論理療法"
+        ],
         "human": [
           "エリス（Ellis, A.）",
           "デュセイ（Dusay, J. M.）",
@@ -3894,7 +3974,9 @@
       },
       "brief": "交流分析について不適切なものを問う",
       "words": {
-        "career_term": [],
+        "career_term": [
+          "交流分析"
+        ],
         "human": [
           "バーン（Berne, E.）"
         ],
@@ -3924,7 +4006,12 @@
         "tool": [],
         "law": [],
         "other_term": [],
-        "support": []
+        "support": [
+          "社内検定認定制度",
+          "キャリア形成・リスキリング推進事業",
+          "教育訓練給付講座検索システム",
+          "キャリアコンサルタント検索システム（キャリコンサーチ）"
+        ]
       }
     },
     "問14": {
@@ -3942,7 +4029,9 @@
       "words": {
         "career_term": [],
         "human": [],
-        "document": [],
+        "document": [
+          "「令和5年度能力開発基本調査」（厚生労働省）"
+        ],
         "tool": [],
         "law": [],
         "other_term": [],
@@ -4574,7 +4663,9 @@
         "document": [],
         "tool": [],
         "law": [],
-        "other_term": [],
+        "other_term": [
+          "ジョブ・カード"
+        ],
         "support": []
       }
     },
