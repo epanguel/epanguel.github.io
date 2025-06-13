@@ -11,22 +11,27 @@
           "技法の階層表については文献により記載が異なるためここでは省略する。"
         ]
       },
-      "ERG（Existence，Relatedness and Growth）理論": {"relevant_humans": ["アルダファ（Alderfer, C. P.）"],"desc": [
-        "アルダファ（Alderfer, C. P.）がマズロー（Maslow, A. H.）の欲求階層説を発展させて考案した理論。",
-        "ERGはそれぞれ、Existence、Relatedness、Growthの頭文字を表す。",
-        "",
-        "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>生存の欲求（Existence）</span>：人間として存在するための低次欲求</div>",
-        "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>関係の欲求（Relatedness）</span>：他者との人間関係を良好に持ち続けたいという欲求</div>",
-        "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>成長の欲求（Growth）</span>：人間に本来備わっている、よりよい自分になりたい、可能性を追求したいという高次欲求</div>",
-        "",
-        "マズローの欲求階層説との大きな違いには以下のようなものがある。",
-        "",
-        "①欲求が満足された場合にはより高次の欲求充足の願望が増加し、欲求がフラストレイトされた場合にはより低次な欲求の満足をはかるというように、フラストレーション（欲求不満足）の概念を取り入れた",
-        "②欲求は階層を進むというよりも、同時にあらゆるレベルにとどまり、2つ以上の欲求水準が同時に働くことがあるという立場を取る",
-        "",
-        "従業員のモチベーションを上げる（保つ）ための理論として取り上げられることが多い。",
-        "3つの欲求を満たすようにすると従業員のモチベーションが上がったり、離職を防ぐことにつながったりすると考える。"
-        ]},
+      "ERG（Existence，Relatedness and Growth）理論": {
+        "relevant_humans": [
+          "アルダファ（Alderfer, C. P.）"
+        ],
+        "desc": [
+          "アルダファ（Alderfer, C. P.）がマズロー（Maslow, A. H.）の欲求階層説を発展させて考案した理論。",
+          "ERGはそれぞれ、Existence、Relatedness、Growthの頭文字を表す。",
+          "",
+          "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>生存の欲求（Existence）</span>：人間として存在するための低次欲求</div>",
+          "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>関係の欲求（Relatedness）</span>：他者との人間関係を良好に持ち続けたいという欲求</div>",
+          "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>成長の欲求（Growth）</span>：人間に本来備わっている、よりよい自分になりたい、可能性を追求したいという高次欲求</div>",
+          "",
+          "マズローの欲求階層説との大きな違いには以下のようなものがある。",
+          "",
+          "①欲求が満足された場合にはより高次の欲求充足の願望が増加し、欲求がフラストレイトされた場合にはより低次な欲求の満足をはかるというように、フラストレーション（欲求不満足）の概念を取り入れた",
+          "②欲求は階層を進むというよりも、同時にあらゆるレベルにとどまり、2つ以上の欲求水準が同時に働くことがあるという立場を取る",
+          "",
+          "従業員のモチベーションを上げる（保つ）ための理論として取り上げられることが多い。",
+          "3つの欲求を満たすようにすると従業員のモチベーションが上がったり、離職を防ぐことにつながったりすると考える。"
+        ]
+      },
       "特性-因子論（特性因子理論、マッチング理論）": {
         "relevant_humans": [],
         "desc": [
@@ -36,66 +41,388 @@
           "※詳しい記載は後日記載"
         ]
       },
-      "ライフサイクル理論": {"relevant_humans": ["エリクソン（Erikson, E. H.）"],"desc": ["※未記載"]},
-      "アイデンティティ理論": {"relevant_humans": ["エリクソン（Erikson, E. H.）"],"desc": ["※未記載"]},
-      "論理療法": {"relevant_humans": ["エリス（Ellis, A.）"],"desc": ["※未記載"]},
-      "論理情動療法": {"relevant_humans": ["エリス（Ellis, A.）"],"desc": ["※未記載"]},
-      "論理情動行動療法": {"relevant_humans": ["エリス（Ellis, A.）"],"desc": ["※未記載"]},
-      "ABC理論（ABCD理論、ABCDE理論）": {"relevant_humans": ["エリス（Ellis, A.）"],"desc": ["※未記載"]},
-      "ヘルピング技法": {"relevant_humans": ["カーカフ（Carkhuff, R. R.）"],"desc": ["※未記載"]},
-      "計画的偶発性理論（Planned Happenstance Theory）": {"relevant_humans": ["クランボルツ（Krumboltz, J. D.）"],"desc": ["※未記載"]},
-      "偶発的学習理論（Happenstance Learning Theory）": {"relevant_humans": ["クランボルツ（Krumboltz, J. D.）"],"desc": ["※未記載"]},
-      "キャリア構築理論": {"relevant_humans": ["サビカス（Savickas, M. L.）"],"desc": ["※未記載"]},
-      "ジェラットの意思決定理論": {"relevant_humans": ["ジェラット（Gelatt, H. B.）"],"desc": ["※未記載"]},
-      "フォーカシング": {"relevant_humans": ["ジェンドリン（Gendlin, E. T.）"],"desc": ["※未記載"]},
-      "キャリアコーン": {"relevant_humans": ["シャイン（Schein, E. H.）"],"desc": ["※未記載"]},
-      "キャリアサイクル": {"relevant_humans": ["シャイン（Schein, E. H.）"],"desc": ["※未記載"]},
-      "キャリアアンカー": {"relevant_humans": ["シャイン（Schein, E. H.）"],"desc": ["※未記載"]},
-      "キャリアサバイバル": {"relevant_humans": ["シャイン（Schein, E. H.）"],"desc": ["※未記載"]},
-      "4S": {"relevant_humans": ["シュロスバーグ（Schein, N. K.）"],"desc": ["※未記載"]},
-      "キャリア発達理論": {"relevant_humans": ["スーパー（Super, D. E.）"],"desc": ["※未記載"]},
-      "ライフキャリアレインボー": {"relevant_humans": ["スーパー（Super, D. E.）"],"desc": ["※未記載"]},
-      "ライフロール": {"relevant_humans": ["スーパー（Super, D. E.）"],"desc": ["※未記載"]},
-      "ライフスペース": {"relevant_humans": ["スーパー（Super, D. E.）"],"desc": ["※未記載"]},
-      "ライフステージ": {"relevant_humans": ["スーパー（Super, D. E.）"],"desc": ["※未記載"]},
-      "エゴグラム": {"relevant_humans": ["デュセイ（Dusay, J. M.）"],"desc": ["※未記載"]},
-      "SL（Situational Leadership）理論": {"relevant_humans": ["ハーシー（Hersey, P.）","ブランチャード（Blanchard, K. H.）"],"desc": ["※未記載"]},
-      "二要因理論（動機づけ・衛生理論）": {"relevant_humans": ["ハーズバーグ（Herzberg, F.）"],"desc": ["※未記載"]},
-      "職業指導[運動]": {"relevant_humans": ["パーソンズ（Parsons, F.）"],"desc": ["※未記載"]},
-      "職業の選択": {"relevant_humans": ["パーソンズ（Parsons, F.）"],"desc": ["※未記載"]},
-      "丸い釘は丸い穴に": {"relevant_humans": ["パーソンズ（Parsons, F.）"],"desc": ["※未記載"]},
-      "職業選択理論": {"relevant_humans": ["パーソンズ（Parsons, F.）"],"desc": ["※未記載"]},
-      "ゲシュタルト療法": {"relevant_humans": ["パールズ（Perls, F. S.）"],"desc": ["※未記載"]},
-      "交流分析（TA：Transactional Analysis）": {"relevant_humans": ["バーン（Berne, E.）"],"desc": ["※未記載"]},
-      "職務特性理論": {"relevant_humans": ["ハックマン（Hackman, J. R.）","オルダム（Oldham, G. R.）"],"desc": ["※未記載"]},
-      "ロゴセラピー（実存分析）": {"relevant_humans": ["フランクル（Frankl, V. E.）"],"desc": ["※未記載"]},
-      "トランジション": {"relevant_humans": ["ブリッジズ（Bridges, W.）"],"desc": ["※未記載"]},
-      "認知療法": {"relevant_humans": ["ベック（Beck, A. T.）"],"desc": ["※未記載"]},
-      "プロティアン・キャリア": {"relevant_humans": ["ホール（Hall, D. T.）"],"desc": ["※未記載"]},
-      "RIASEC": {"relevant_humans": ["ホランド（Holland, J. L.）"],"desc": ["※未記載"]},
-      "ホランドの六角形": {"relevant_humans": ["ホランド（Holland, J. L.）"],"desc": ["※未記載"]},
-      "欲求理論（達成欲求理論）": {"relevant_humans": ["マクレランド（McClelland, D. C.）"],"desc": ["※未記載"]},
-      "アイデンティティ・ステイタス（同一性地位）": {"relevant_humans": ["マーシャ（Marcia, J. E.）"],"desc": ["※未記載"]},
-      "基本的欲求段階説": {"relevant_humans": ["マズロー（Maslow, A. H.）"],"desc": [
-        "マズローは人間の欲求を5段階に分けた。",
-        "欲求は最も低次のものから「<span style='color:orange'>生理的欲求</span>」「<span style='color:orange'>安全の欲求</span>」「<span style='color:orange'>社会的欲求</span>」「<span style='color:orange'>承認（尊重）欲求</span>」「<span style='color:orange'>自己実現欲求</span>」があり、低次の欲求が満たされると次により高次の欲求を求めるとした。",
-        "それぞれの欲求の内容は以下である。",
-        "",
-        "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>生理的欲求</span>：生きていくための本能的な欲求（食事、睡眠など）</div>",
-        "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>安全の欲求</span>：危機を回避して安全な場所や環境にいたいという欲求</div>",
-        "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>社会的欲求</span>：集団に所属したり仲間を求めようとする欲求</div>",
-        "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>承認（尊重）欲求</span>：社会の中で高い評価を得たり、尊重されたりしたいという欲求</div>",
-        "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>自己実現欲求</span>：自分の可能性を追求して理想の自分に近づきたい、自分の能力や才能を最大限に発揮したいという欲求</div>",
-        "",
-        "後に自己実現欲求の高位に「<span style='color:orange'>自己超越の欲求</span>」を追加した。",
-        "",
-        "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>自己超越の欲求</span>：社会貢献など、自分のエゴを超えて他者や社会のことを想う欲求</div>"
-        ]},
-      "サイコドラマ（Sychodrama）": {"relevant_humans": ["モレノ（Moreno, J. L.）"],"desc": ["※未記載"]},
-      "レビンソンの発達段階説": {"relevant_humans": ["レビンソン（Levinson, D. J.）"],"desc": ["※未記載"]},
-      "Tグループ（T-group）": {"relevant_humans": ["レヴィン（Lewin, K.）"],"desc": ["※未記載"]},
-      "来談者中心療法（クライエント中心療法）": {"relevant_humans": ["ロジャーズ（Rogers, C. R.）"],"desc": ["※未記載"]},
-      "エンカウンターグループ（Encounter Group）": {"relevant_humans": ["ロジャーズ（Rogers, C. R.）"],"desc": ["※未記載"]},
+      "ライフサイクル理論": {
+        "relevant_humans": [
+          "エリクソン（Erikson, E. H.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "アイデンティティ理論": {
+        "relevant_humans": [
+          "エリクソン（Erikson, E. H.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "論理療法": {
+        "relevant_humans": [
+          "エリス（Ellis, A.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "論理情動療法": {
+        "relevant_humans": [
+          "エリス（Ellis, A.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "論理情動行動療法": {
+        "relevant_humans": [
+          "エリス（Ellis, A.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "ABC理論（ABCD理論、ABCDE理論）": {
+        "relevant_humans": [
+          "エリス（Ellis, A.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "ヘルピング技法": {
+        "relevant_humans": [
+          "カーカフ（Carkhuff, R. R.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "計画的偶発性理論（Planned Happenstance Theory）": {
+        "relevant_humans": [
+          "クランボルツ（Krumboltz, J. D.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "偶発的学習理論（Happenstance Learning Theory）": {
+        "relevant_humans": [
+          "クランボルツ（Krumboltz, J. D.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "キャリア構築理論": {
+        "relevant_humans": [
+          "サビカス（Savickas, M. L.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "ジェラットの意思決定理論": {
+        "relevant_humans": [
+          "ジェラット（Gelatt, H. B.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "フォーカシング": {
+        "relevant_humans": [
+          "ジェンドリン（Gendlin, E. T.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "キャリアコーン": {
+        "relevant_humans": [
+          "シャイン（Schein, E. H.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "キャリアサイクル": {
+        "relevant_humans": [
+          "シャイン（Schein, E. H.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "キャリアアンカー": {
+        "relevant_humans": [
+          "シャイン（Schein, E. H.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "キャリアサバイバル": {
+        "relevant_humans": [
+          "シャイン（Schein, E. H.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "4S": {
+        "relevant_humans": [
+          "シュロスバーグ（Schein, N. K.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "キャリア発達理論": {
+        "relevant_humans": [
+          "スーパー（Super, D. E.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "ライフキャリアレインボー": {
+        "relevant_humans": [
+          "スーパー（Super, D. E.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "ライフロール": {
+        "relevant_humans": [
+          "スーパー（Super, D. E.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "ライフスペース": {
+        "relevant_humans": [
+          "スーパー（Super, D. E.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "ライフステージ": {
+        "relevant_humans": [
+          "スーパー（Super, D. E.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "エゴグラム": {
+        "relevant_humans": [
+          "デュセイ（Dusay, J. M.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "SL（Situational Leadership）理論": {
+        "relevant_humans": [
+          "ハーシー（Hersey, P.）",
+          "ブランチャード（Blanchard, K. H.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "二要因理論（動機づけ・衛生理論）": {
+        "relevant_humans": [
+          "ハーズバーグ（Herzberg, F.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "職業指導[運動]": {
+        "relevant_humans": [
+          "パーソンズ（Parsons, F.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "職業の選択": {
+        "relevant_humans": [
+          "パーソンズ（Parsons, F.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "丸い釘は丸い穴に": {
+        "relevant_humans": [
+          "パーソンズ（Parsons, F.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "職業選択理論": {
+        "relevant_humans": [
+          "パーソンズ（Parsons, F.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "ゲシュタルト療法": {
+        "relevant_humans": [
+          "パールズ（Perls, F. S.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "交流分析（TA：Transactional Analysis）": {
+        "relevant_humans": [
+          "バーン（Berne, E.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "職務特性理論": {
+        "relevant_humans": [
+          "ハックマン（Hackman, J. R.）",
+          "オルダム（Oldham, G. R.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "ロゴセラピー（実存分析）": {
+        "relevant_humans": [
+          "フランクル（Frankl, V. E.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "トランジション": {
+        "relevant_humans": [
+          "ブリッジズ（Bridges, W.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "認知療法": {
+        "relevant_humans": [
+          "ベック（Beck, A. T.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "プロティアン・キャリア": {
+        "relevant_humans": [
+          "ホール（Hall, D. T.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "RIASEC": {
+        "relevant_humans": [
+          "ホランド（Holland, J. L.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "ホランドの六角形": {
+        "relevant_humans": [
+          "ホランド（Holland, J. L.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "欲求理論（達成欲求理論）": {
+        "relevant_humans": [
+          "マクレランド（McClelland, D. C.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "アイデンティティ・ステイタス（同一性地位）": {
+        "relevant_humans": [
+          "マーシャ（Marcia, J. E.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "基本的欲求段階説": {
+        "relevant_humans": [
+          "マズロー（Maslow, A. H.）"
+        ],
+        "desc": [
+          "マズローは人間の欲求を5段階に分けた。",
+          "欲求は最も低次のものから「<span style='color:orange'>生理的欲求</span>」「<span style='color:orange'>安全の欲求</span>」「<span style='color:orange'>社会的欲求</span>」「<span style='color:orange'>承認（尊重）欲求</span>」「<span style='color:orange'>自己実現欲求</span>」があり、低次の欲求が満たされると次により高次の欲求を求めるとした。",
+          "それぞれの欲求の内容は以下である。",
+          "",
+          "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>生理的欲求</span>：生きていくための本能的な欲求（食事、睡眠など）</div>",
+          "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>安全の欲求</span>：危機を回避して安全な場所や環境にいたいという欲求</div>",
+          "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>社会的欲求</span>：集団に所属したり仲間を求めようとする欲求</div>",
+          "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>承認（尊重）欲求</span>：社会の中で高い評価を得たり、尊重されたりしたいという欲求</div>",
+          "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>自己実現欲求</span>：自分の可能性を追求して理想の自分に近づきたい、自分の能力や才能を最大限に発揮したいという欲求</div>",
+          "",
+          "後に自己実現欲求の高位に「<span style='color:orange'>自己超越の欲求</span>」を追加した。",
+          "",
+          "<div style='margin: 0px 0px 0px 13px'><span style='color:orange'>自己超越の欲求</span>：社会貢献など、自分のエゴを超えて他者や社会のことを想う欲求</div>"
+        ]
+      },
+      "サイコドラマ（Sychodrama）": {
+        "relevant_humans": [
+          "モレノ（Moreno, J. L.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "レビンソンの発達段階説": {
+        "relevant_humans": [
+          "レビンソン（Levinson, D. J.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "Tグループ（T-group）": {
+        "relevant_humans": [
+          "レヴィン（Lewin, K.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "来談者中心療法（クライエント中心療法）": {
+        "relevant_humans": [
+          "ロジャーズ（Rogers, C. R.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
+      "エンカウンターグループ（Encounter Group）": {
+        "relevant_humans": [
+          "ロジャーズ（Rogers, C. R.）"
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
       "内観法": {
         "relevant_humans": [
           "吉本伊信"
@@ -108,7 +435,14 @@
           "特に疾病の治療として用いられる場合には「内観療法」といい、これは、森田療法と並ぶ日本発祥の精神療法とされる。"
         ]
       },
-      "コーヒーカップ方式（コーヒーカップモデル）": {"relevant_humans": [""],"desc": ["※未記載"]},
+      "コーヒーカップ方式（コーヒーカップモデル）": {
+        "relevant_humans": [
+          ""
+        ],
+        "desc": [
+          "※未記載"
+        ]
+      },
       "森田療法": {
         "relevant_humans": [
           "森田正馬"
@@ -120,11 +454,7 @@
           "その上で、神経症の根底にある不安や死の恐怖は、自然な感情であり、よりよく生きようとする人間本来の欲望（生の欲望）と表裏一体の関係にあるものと理解する。",
           "特定の期間、外の環境から隔離して集中的に安静をはかる絶対臥褥と自発性を重視した作業療法で治療を行うことを基本とする。"
         ]
-      }
-    }
-  ],
-  "mental_health": [
-    {
+      },
       "逆制止理論": {
         "relevant_humans": [
           "ウォルピ（Wolpe, J）"
@@ -147,14 +477,35 @@
       }
     }
   ],
-  "others": [
+  "terms": [
+    {
+      "": {
+        "desc": [
+          "-"
+        ]
+      }
+    }
+  ],
+  "disabilities": [
+    {
+      "": {
+        "relevant_humans": [
+          ""
+        ],
+        "desc": [
+          "-"
+        ]
+      }
+    }
+  ],
+  "support_systems": [
     {
       "サポステ（地域若者サポートステーション）": {
         "summary": [
           ""
         ],
         "desc": [
-          ""
+          "-"
         ]
       }
     }

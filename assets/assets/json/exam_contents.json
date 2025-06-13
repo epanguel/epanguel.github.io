@@ -13,14 +13,15 @@
       },
       "brief": "企業の変革の方向性について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「人材版伊藤レポート」（「人的資本経営の実現に向けた検討会報告書」（経済産業省、2022年）および「持続的な企業価値の向上と人的資本に関する研究会報告書」（経済産業省、2020年））"
         ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問2": {
@@ -36,14 +37,15 @@
       },
       "brief": "人々の暮らし向きの様子・中流に関するイメージ・社会に関する考え方等について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「暮らしと意識に関する NHK・JILPT 共同調査（一次集計）結果の概要」（日本放送協会、独立行政法人労働政策研究･研修機構、2022年）"
         ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問3": {
@@ -59,14 +61,15 @@
       },
       "brief": "キャリアコンサルティングが労働者のキャリア形成意識やキャリア形成に及ぼす影響について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「令和4年版労働経済の分析」（厚生労働省）"
         ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問4": {
@@ -82,19 +85,20 @@
       },
       "brief": "ホランド（Holland, J. L.）の理論について適切なものを問う",
       "words": {
-        "theory": [
+        "career_term": [
           "ライフ・キャリア・レインボー理論",
           "ホランドの6領域"
         ],
         "human": [
           "ホランド（Holland, J. L.）"
         ],
-        "mental": [],
         "document": [],
-        "law": [],
-        "other": [
+        "tool": [
           "厚生労働省編一般職業適性検査[進路指導・職業指導用]（GATB）"
-        ]
+        ],
+        "law": [],
+        "other_term": [],
+        "support": []
       }
     },
     "問5": {
@@ -110,7 +114,7 @@
       },
       "brief": "多文化・社会正義論に関する人物と説明の組み合わせについて適切なものを問う",
       "words": {
-        "theory": [
+        "career_term": [
           "多文化・社会正義論",
           "異文化キャリアアセスメント論",
           "キャリアガイダンスの4つのイデオロギー",
@@ -122,10 +126,11 @@
           "クランボルツ（Krumboltz, J. D.）",
           "バンデューラ（Bandura, A.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問6": {
@@ -141,17 +146,18 @@
       },
       "brief": "ジェラット（Gelatt, H. B.）の意思決定理論について不適切なものを問う",
       "words": {
-        "theory": [
+        "career_term": [
           "連続的意思決定プロセス",
           "積極的不確実性（Positive Uncertainty）"
         ],
         "human": [
           "ジェラット（Gelatt, H. B.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問7": {
@@ -167,7 +173,7 @@
       },
       "brief": "キャリアの理論に関する人物と説明の組み合わせについて適切なものを問う",
       "words": {
-        "theory": [
+        "career_term": [
           "連続的意思決定理論",
           "キャリア・アダプタビリティ"
         ],
@@ -177,10 +183,11 @@
           "ジェラット（Gelatt, H. B.）",
           "サビカス（Savickas, M. L.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問8": {
@@ -196,18 +203,15 @@
       },
       "brief": "防衛機制について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "防衛機制",
-          "合理化",
-          "補償",
-          "同一視",
-          "反動形成"
-        ]
+        "other_term": [
+          "防衛機制"
+        ],
+        "support": []
       }
     },
     "問9": {
@@ -223,12 +227,15 @@
       },
       "brief": "精神分析療法について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "精神分析療法"
+        ],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問10": {
@@ -244,17 +251,22 @@
       },
       "brief": "カウンセリングの理論や心理療法に関する人物と説明の組み合わせについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "森田療法",
+          "交流分析",
+          "来談者中心療法"
+        ],
         "human": [
           "スキナー（Skinner, B. F.）",
           "森田正馬",
           "パールズ（Perls, F. S.）",
           "ロジャーズ（Rogers, C. R.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問11": {
@@ -270,12 +282,15 @@
       },
       "brief": "職業能力開発の方向性と基本的施策について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「第 11 次職業能力開発基本計画」（厚生労働省、令和 3 年 3 月）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問12": {
@@ -291,12 +306,15 @@
       },
       "brief": "職業能力開発促進法について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
-        "law": [],
-        "other": []
+        "tool": [],
+        "law": [
+          "職業能力開発促進法"
+        ],
+        "other_term": [],
+        "support": []
       }
     },
     "問13": {
@@ -312,12 +330,18 @@
       },
       "brief": "職業能力開発や生涯学習について適切なものの組み合わせを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "職業能力",
+          "生涯学習",
+          "リカレント（Recurrent）",
+          "リスキリング（Re-skilling）"
+        ],
+        "support": []
       }
     },
     "問14": {
@@ -333,12 +357,13 @@
       },
       "brief": "パートタイム・有期雇用労働法上のパートタイム・有期雇用労働者と通常の労働者の待遇差（いわゆる同一労働同一賃金）について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問15": {
@@ -354,12 +379,16 @@
       },
       "brief": "職業能力開発の方法について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "Off-JT",
+          "OJT"
+        ],
+        "support": []
       }
     },
     "問16": {
@@ -375,12 +404,16 @@
       },
       "brief": "職業能力開発促進法における事業内職業能力開発計画及び職業能力開発推進者について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": [
+          "事業内職業能力開発計画",
+          "職業能力開発推進者"
+        ]
       }
     },
     "問17": {
@@ -396,12 +429,15 @@
       },
       "brief": "労働力の確保・質の向上に向けた課題について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「令和4年度年次経済財政報告」（内閣府）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問18": {
@@ -417,12 +453,15 @@
       },
       "brief": "労働市場における「ミスマッチ」の状況について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「令和4年版労働経済の分析」（厚生労働省）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問19": {
@@ -438,12 +477,18 @@
       },
       "brief": "総務省統計局の労働力調査で用いられる用語について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "完全失業者",
+          "労働力人口比率",
+          "完全失業率",
+          "非労働力人口"
+        ],
+        "support": []
       }
     },
     "問20": {
@@ -459,12 +504,15 @@
       },
       "brief": "就労条件総合調査について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「令和5年就労条件総合調査 結果の概況」（厚生労働省）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問21": {
@@ -480,12 +528,18 @@
       },
       "brief": "法令上の労働時間について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
-        "law": [],
-        "other": []
+        "tool": [],
+        "law": [
+          "労働基準法"
+        ],
+        "other_term": [
+          "36協定",
+          "高度プロフェッショナル制度"
+        ],
+        "support": []
       }
     },
     "問22": {
@@ -501,12 +555,15 @@
       },
       "brief": "女性活躍推進法について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
-        "law": [],
-        "other": []
+        "tool": [],
+        "law": [
+          "女性活躍推進法"
+        ],
+        "other_term": [],
+        "support": []
       }
     },
     "問23": {
@@ -522,12 +579,15 @@
       },
       "brief": "男女雇用機会均等法について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
-        "law": [],
-        "other": []
+        "tool": [],
+        "law": [
+          "男女雇用機会均等法"
+        ],
+        "other_term": [],
+        "support": []
       }
     },
     "問24": {
@@ -543,12 +603,13 @@
       },
       "brief": "労働契約の終了について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問25": {
@@ -564,12 +625,15 @@
       },
       "brief": "キャリア教育と生徒指導との関連性について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「生徒指導提要（改訂版）」（文部科学省、令和4年）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問26": {
@@ -585,12 +649,15 @@
       },
       "brief": "キャリア教育と職業教育について適切なものの組み合わせを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「高等学校キャリア教育の手引き」（文部科学省、平成23年）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問27": {
@@ -606,12 +673,15 @@
       },
       "brief": "大学等におけるインターンシップの推進について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「インターンシップを始めとする学生のキャリア形成支援に係る取組の推進に当たっての基本的考え方」（文部科学省・厚生労働省・経済産業省、令和4年6月13日一部改正）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問28": {
@@ -627,12 +697,15 @@
       },
       "brief": "睡眠について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「健康づくりのための睡眠指針2014」（厚生労働省）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問29": {
@@ -648,12 +721,15 @@
       },
       "brief": "ウェルビーイング（Well-being）について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "ウェルビーイング（Well-being）"
+        ],
+        "support": []
       }
     },
     "問30": {
@@ -669,14 +745,15 @@
       },
       "brief": "スーパー（Super, D. E.）が提唱するキャリア発達について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "スーパー（Super, D. E.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問31": {
@@ -692,14 +769,17 @@
       },
       "brief": "マーシャ（Marcia, J. E.）が示したアイデンティティ・ステイタスの「モラトリアム」について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "アイデンティティ・ステイタス"
+        ],
         "human": [
           "マーシャ（Marcia, J. E.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問32": {
@@ -715,12 +795,15 @@
       },
       "brief": "近年のわが国の働く女性の実情等について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「令和3年版働く女性の実情」（厚生労働省、令和4年3月）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問33": {
@@ -736,12 +819,15 @@
       },
       "brief": "生活困窮者及び生活困窮者自立支援制度について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "生活困窮者"
+        ],
+        "support": []
       }
     },
     "問34": {
@@ -757,12 +843,15 @@
       },
       "brief": "発達障害のある人の雇用管理において配慮すべきポイントについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「発達障害のある人の雇用管理マニュアル」（厚生労働省、2006年3月）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問35": {
@@ -778,12 +867,15 @@
       },
       "brief": "グループ・ファシリテーションについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "グループ・ファシリテーション"
+        ],
+        "support": []
       }
     },
     "問36": {
@@ -799,12 +891,15 @@
       },
       "brief": "ジョブ・カード作成の条件やメリットについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "ジョブ・カード"
+        ],
+        "support": []
       }
     },
     "問37": {
@@ -820,12 +915,13 @@
       },
       "brief": "キャリアコンサルタントがよりよいキャリアコンサルティングを行うための留意点について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問38": {
@@ -841,12 +937,15 @@
       },
       "brief": "コンサルテーションについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "コンサルテーション"
+        ],
+        "support": []
       }
     },
     "問39": {
@@ -862,12 +961,13 @@
       },
       "brief": "キャリアコンサルティングにおける相談場面の設定について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問40": {
@@ -883,12 +983,15 @@
       },
       "brief": "厚生労働省編一般職業適性検査[進路指導・職業指導用]（GATB）の結果の活用について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [
+          "厚生労働省編一般職業適性検査[進路指導・職業指導用]（GATB）"
+        ],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問41": {
@@ -904,12 +1007,17 @@
       },
       "brief": "仕事理解の支援について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "厚生労働省編職業分類"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": [
+          "job tag（職業情報提供サイト（日本版O-NET））"
+        ]
       }
     },
     "問42": {
@@ -925,12 +1033,15 @@
       },
       "brief": "啓発的経験について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "啓発的経験"
+        ],
+        "support": []
       }
     },
     "問43": {
@@ -946,12 +1057,13 @@
       },
       "brief": "キャリアコンサルティングにおける目標設定のステップについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問44": {
@@ -967,12 +1079,15 @@
       },
       "brief": "システマティック・アプローチのプロセスにおける「方策の実行」の支援について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "システマティック・アプローチ"
+        ],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問45": {
@@ -988,12 +1103,13 @@
       },
       "brief": "キャリアコンサルタントによる、クライエントの組織への適応支援について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問46": {
@@ -1009,12 +1125,13 @@
       },
       "brief": "相談過程の評価について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問47": {
@@ -1030,12 +1147,15 @@
       },
       "brief": "キャリアコンサルティングの普及活動について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「働く環境の変化に対応できるキャリアコンサルタントに関する報告書」（厚生労働省、令和3年6月）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問48": {
@@ -1051,12 +1171,13 @@
       },
       "brief": "企業領域で活動するキャリアコンサルタントのネットワークの認識と実践について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問49": {
@@ -1072,12 +1193,15 @@
       },
       "brief": "キャリアコンサルタント倫理綱領について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "キャリアコンサルタント倫理綱領（2016年）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問50": {
@@ -1093,12 +1217,13 @@
       },
       "brief": "キャリアコンサルタントとクライエントとの関係に基づいた行動について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     }
   },
@@ -1116,16 +1241,15 @@
       },
       "brief": "転職の動向について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「令和5年版労働経済の分析」（厚生労働省）"
         ],
+        "tool": [],
         "law": [],
-        "other": [
-          "転職"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問2": {
@@ -1141,14 +1265,15 @@
       },
       "brief": "改正された職業能力開発促進法について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "職業能力開発促進法"
         ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問3": {
@@ -1164,16 +1289,15 @@
       },
       "brief": "キャリアコンサルティング・キャリアコンサルタントの役割について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「職場における学び・学び直し促進ガイドライン」（厚生労働省、令和4年6月）"
         ],
+        "tool": [],
         "law": [],
-        "other": [
-          "キャリアコンサルティング・キャリアコンサルタントの役割"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問4": {
@@ -1189,16 +1313,17 @@
       },
       "brief": "パーソンズ（Parsons, F.）に代表される、特性-因子論について不適切なものを問う",
       "words": {
-        "theory": [
+        "career_term": [
           "特性-因子論"
         ],
         "human": [
           "パーソンズ（Parsons, F.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問5": {
@@ -1214,14 +1339,15 @@
       },
       "brief": "クランボルツ（Krumboltz, J. D.）の理論について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "クランボルツ（Krumboltz, J. D.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問6": {
@@ -1237,18 +1363,19 @@
       },
       "brief": "ハックマンとオルダム（Hackman, J. R. & Oldham, G. R.）が提唱した職務特性理論について適切なものを問う",
       "words": {
-        "theory": [
+        "career_term": [
           "職務特性理論"
         ],
         "human": [
           "ハックマンとオルダム（Hackman, J. R. & Oldham, G. R.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
+        "other_term": [
           "コンピテンシー"
-        ]
+        ],
+        "support": []
       }
     },
     "問7": {
@@ -1264,14 +1391,15 @@
       },
       "brief": "スーパー（Super, D. E.）の理論について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "スーパー（Super, D. E.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問8": {
@@ -1287,16 +1415,17 @@
       },
       "brief": "ジェラット（Gelatt, H. B.）の意思決定理論の理論について適切なものを問う",
       "words": {
-        "theory": [
+        "career_term": [
           "意思決定理論"
         ],
         "human": [
           "ジェラット（Gelatt, H. B.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問9": {
@@ -1312,17 +1441,18 @@
       },
       "brief": "中高年のライフステージとキャリアに関する人物と説明の組み合わせについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "エリクソン（Erikson, E. H.）",
           "レビンソン（Levinson, D. J.）",
           "岡本祐子",
           "スーパー（Super, D. E.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問10": {
@@ -1338,16 +1468,17 @@
       },
       "brief": "ブリッジズ（Bridges, W.）が提唱したトランジション（転機）のプロセスについて不適切なものを問う",
       "words": {
-        "theory": [
-          "トランジション"
+        "career_term": [
+          "トランジション（転機）のプロセス"
         ],
         "human": [
           "ブリッジズ（Bridges, W.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問11": {
@@ -1363,17 +1494,23 @@
       },
       "brief": "人物と理論等の組み合わせについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "ゲシュタルト療法",
+          "マイクロカウンセリング",
+          "ヘルピング技法",
+          "認知療法"
+        ],
         "human": [
           "アイビイ（Ivey, A. E.）",
           "カーカフ（Carkhuff, R. R.）",
           "パールズ（Perls, F. S.）",
           "ベック（Beck, A. T.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問12": {
@@ -1389,14 +1526,15 @@
       },
       "brief": "フロイト（Freud, S.）の理論について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "フロイト（Freud, S.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問13": {
@@ -1412,16 +1550,15 @@
       },
       "brief": "職場における学び・学び直しについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「職場における学び・学び直し促進ガイドライン」（厚生労働省、令和4年6月）"
         ],
+        "tool": [],
         "law": [],
-        "other": [
-          "職場における学び・学び直し"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問14": {
@@ -1437,16 +1574,15 @@
       },
       "brief": "労働者のキャリアコンサルティング利用状況について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「令和4年度能力開発基本調査 調査結果の概要（個人調査）」（厚生労働省）"
         ],
+        "tool": [],
         "law": [],
-        "other": [
-          "労働者の職業生活設計"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問15": {
@@ -1462,14 +1598,15 @@
       },
       "brief": "教育訓練給付制度について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
+        "other_term": [
           "教育訓練給付制度"
-        ]
+        ],
+        "support": []
       }
     },
     "問16": {
@@ -1485,12 +1622,13 @@
       },
       "brief": "人材開発支援助成金について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
+        "other_term": [],
+        "support": [
           "人材開発支援助成金"
         ]
       }
@@ -1508,14 +1646,15 @@
       },
       "brief": "副業・兼業について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
+        "other_term": [
           "副業・兼業"
-        ]
+        ],
+        "support": []
       }
     },
     "問18": {
@@ -1531,12 +1670,13 @@
       },
       "brief": "キャリア形成・リスキリング支援センターについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
+        "other_term": [],
+        "support": [
           "キャリア形成・リスキリング支援センター"
         ]
       }
@@ -1554,14 +1694,15 @@
       },
       "brief": "能力開発に関する事がらについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
-        "law": [],
-        "other": [
+        "document": [
           "「令和4年度能力開発基本調査 調査結果の概要」（厚生労働省）"
-        ]
+        ],
+        "tool": [],
+        "law": [],
+        "other_term": [],
+        "support": []
       }
     },
     "問20": {
@@ -1577,16 +1718,15 @@
       },
       "brief": "雇用・失業情勢の動向について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「令和5年版労働経済の分析」（厚生労働省）"
         ],
+        "tool": [],
         "law": [],
-        "other": [
-          "雇用・失業情勢"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問21": {
@@ -1602,16 +1742,15 @@
       },
       "brief": "賃金の現状と課題について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「令和5年版労働経済の分析」（厚生労働省）"
         ],
+        "tool": [],
         "law": [],
-        "other": [
-          "賃金の現状と課題"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問22": {
@@ -1627,16 +1766,15 @@
       },
       "brief": "三位一体で進める改革について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「三位一体の労働市場改革の指針」（新しい資本主義実現会議、令和5年）"
         ],
+        "tool": [],
         "law": [],
-        "other": [
-          "三位一体で進める改革"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問23": {
@@ -1652,12 +1790,13 @@
       },
       "brief": "職業能力開発推進者について適切なものの組み合わせを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
+        "other_term": [],
+        "support": [
           "職業能力開発推進者"
         ]
       }
@@ -1675,14 +1814,15 @@
       },
       "brief": "労働者災害補償保険法について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [
           "労働者災害補償保険法"
         ],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問25": {
@@ -1698,14 +1838,15 @@
       },
       "brief": "男女雇用機会均等法について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [
           "男女雇用機会均等法"
         ],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問26": {
@@ -1721,14 +1862,15 @@
       },
       "brief": "雇用保険制度について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
+        "other_term": [
           "雇用保険制度"
-        ]
+        ],
+        "support": []
       }
     },
     "問27": {
@@ -1744,16 +1886,17 @@
       },
       "brief": "インターンシップについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「インターンシップを始めとする学生のキャリア形成支援に係る取組の推進に当たっての基本的考え方」（文部科学省、厚生労働省、経済産業省、令和4年一部改正）"
         ],
+        "tool": [],
         "law": [],
-        "other": [
+        "other_term": [
           "インターンシップ"
-        ]
+        ],
+        "support": []
       }
     },
     "問28": {
@@ -1769,16 +1912,15 @@
       },
       "brief": "キャリア教育の位置づけについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "高等学校学習指導要領（文部科学省、平成30年）"
         ],
+        "tool": [],
         "law": [],
-        "other": [
-          "キャリア教育"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問29": {
@@ -1794,14 +1936,13 @@
       },
       "brief": "中学校における、進路指導やキャリア教育について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "中学校における、進路指導やキャリア教育"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問30": {
@@ -1817,14 +1958,15 @@
       },
       "brief": "改正された「心理的負荷による精神障害の労災認定基準」（厚生労働省）について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
-        "law": [
+        "document": [
           "「心理的負荷による精神障害の労災認定基準」（厚生労働省）"
         ],
-        "other": []
+        "tool": [],
+        "law": [],
+        "other_term": [],
+        "support": []
       }
     },
     "問31": {
@@ -1840,16 +1982,15 @@
       },
       "brief": "睡眠とメンタルヘルスについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「健康づくりのための睡眠ガイド2023」（厚生労働省）"
         ],
+        "tool": [],
         "law": [],
-        "other": [
-          "睡眠"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問32": {
@@ -1865,14 +2006,15 @@
       },
       "brief": "事業場における治療と仕事の両立について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "「事業場における治療と仕事の両立支援のためのガイドライン」（厚生労働省、令和6年3月）"
         ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問33": {
@@ -1888,14 +2030,15 @@
       },
       "brief": "発達障害とその対応について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [
+        "document": [],
+        "tool": [],
+        "law": [],
+        "other_term": [
           "発達障害"
         ],
-        "document": [],
-        "law": [],
-        "other": []
+        "support": []
       }
     },
     "問34": {
@@ -1911,14 +2054,15 @@
       },
       "brief": "マイクロカウンセリングの積極技法の一つである「フィードバック」について適切なものを問う",
       "words": {
-        "theory": [
+        "career_term": [
           "マイクロカウンセリング"
         ],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問35": {
@@ -1934,14 +2078,13 @@
       },
       "brief": "カウンセリングにおける傾聴の意義について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "カウンセリングにおける傾聴"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問36": {
@@ -1957,8 +2100,11 @@
       },
       "brief": "グループアプローチに関する人物と説明の組み合わせについて適切なものを問う",
       "words": {
-        "theory": [
-          "グループアプローチ"
+        "career_term": [
+          "対人関係ゲーム（Social Interactive Games）",
+          "サイコドラマ（Sychodrama）",
+          "Tグループ（T-group）",
+          "エンカウンターグループ（Encounter Group）"
         ],
         "human": [
           "レヴィン（Lewin, K.）",
@@ -1966,10 +2112,11 @@
           "ロジャーズ（Rogers, C. R.）",
           "國分康孝"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問37": {
@@ -1985,13 +2132,16 @@
       },
       "brief": "ジョブ・カードについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
-        "law": [],
-        "other": [
+        "tool": [
           "ジョブ・カード"
+        ],
+        "law": [],
+        "other_term": [],
+        "support": [
+          "マイジョブ・カード"
         ]
       }
     },
@@ -2008,14 +2158,13 @@
       },
       "brief": "「見立て」について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "見立て"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問39": {
@@ -2031,14 +2180,15 @@
       },
       "brief": "「相談場面の設定」について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
+        "other_term": [
           "相談場面の設定"
-        ]
+        ],
+        "support": []
       }
     },
     "問40": {
@@ -2054,14 +2204,15 @@
       },
       "brief": "厚生労働省編一般職業適性検査[進路指導・職業指導用]（GATB）について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
-        "law": [],
-        "other": [
+        "tool": [
           "厚生労働省編一般職業適性検査[進路指導・職業指導用]（GATB）"
-        ]
+        ],
+        "law": [],
+        "other_term": [],
+        "support": []
       }
     },
     "問41": {
@@ -2077,14 +2228,15 @@
       },
       "brief": "2022年に改定された厚生労働省編職業分類（第5回改定）について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "厚生労働省編職業分類（第5回改定）"
         ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問42": {
@@ -2100,14 +2252,13 @@
       },
       "brief": "大学のキャリア形成支援について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "大学のキャリア形成支援"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問43": {
@@ -2123,14 +2274,16 @@
       },
       "brief": "自己啓発の支援やトライアル雇用にかかる支援について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "自己啓発の支援やトライアル雇用"
-        ]
+        "other_term": [
+          "啓発的経験",
+          "トライアル雇用"
+        ],
+        "support": []
       }
     },
     "問44": {
@@ -2146,14 +2299,13 @@
       },
       "brief": "意思決定支援におけるキャリア・プランの作成支援について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "意思決定支援におけるキャリア・プランの作成支援"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問45": {
@@ -2169,14 +2321,13 @@
       },
       "brief": "方策の実行の支援について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "方策の実行"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問46": {
@@ -2192,14 +2343,13 @@
       },
       "brief": "相談過程の終結について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "相談過程の終結"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問47": {
@@ -2215,12 +2365,13 @@
       },
       "brief": "セルフ・キャリアドックについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
+        "other_term": [],
+        "support": [
           "セルフ・キャリアドック"
         ]
       }
@@ -2238,14 +2389,13 @@
       },
       "brief": "キャリアコンサルタントについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "企業領域で活動するキャリアコンサルタント"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問49": {
@@ -2261,14 +2411,13 @@
       },
       "brief": "キャリアコンサルタントとしての倫理と姿勢について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": [
-          "キャリアコンサルタントとしての倫理と姿勢"
-        ]
+        "other_term": [],
+        "support": []
       }
     },
     "問50": {
@@ -2284,14 +2433,15 @@
       },
       "brief": "キャリアコンサルタント倫理綱領（特定非営利活動法人キャリアコンサルティング協議会、令和6年1月）について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [
           "キャリアコンサルタント倫理綱領（特定非営利活動法人キャリアコンサルティング協議会、令和6年1月）"
         ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     }
   },
@@ -2309,12 +2459,15 @@
       },
       "brief": "高年齢者の雇用状況について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「令和5年高年齢者雇用状況等報告」（厚生労働省）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問2": {
@@ -2330,12 +2483,15 @@
       },
       "brief": "出生の状況や出産前後の就業状況の変化について適切なものの組み合わせを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「第11回21世紀成年者縦断調査（平成24年成年者）の概況」（厚生労働省、2023年）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問3": {
@@ -2351,12 +2507,15 @@
       },
       "brief": "キャリアコンサルティングを行った効果について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「令和5年度能力開発基本調査 調査結果の概要（企業調査）」（厚生労働省）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問4": {
@@ -2372,14 +2531,17 @@
       },
       "brief": "サビカス（Savickas, M. L.）が提唱したキャリア構築理論における「ライフテーマ」について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "キャリア構築理論"
+        ],
         "human": [
           "サビカス（Savickas, M. L.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問5": {
@@ -2395,14 +2557,17 @@
       },
       "brief": "スーパー（Super, D. E.）のキャリア発達理論の基本的な考え方について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "キャリア発達理論"
+        ],
         "human": [
           "スーパー（Super, D. E.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問6": {
@@ -2418,14 +2583,15 @@
       },
       "brief": "クランボルツ（Krumboltz, J. D.）のキャリア理論について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "クランボルツ（Krumboltz, J. D.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問7": {
@@ -2441,17 +2607,24 @@
       },
       "brief": "人物と理論等の組み合わせについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "キャリア・アンカー",
+          "4S",
+          "連続的意思決定プロセス"
+        ],
         "human": [
           "パーソンズ（Parsons, F.）",
           "シャイン（Schein, E. H.）",
           "シュロスバーグ（Schlossberg, N. K.）",
           "クランボルツ（Krumboltz, J. D.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [
+          "VPI"
+        ],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問8": {
@@ -2467,14 +2640,19 @@
       },
       "brief": "スーパー（Super, D. E.）の理論について適切なものの組み合わせを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "ライフ・ステージ",
+          "ライフサイクル",
+          "職業的適合性（vocational fitness）"
+        ],
         "human": [
           "スーパー（Super, D. E.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問9": {
@@ -2490,14 +2668,17 @@
       },
       "brief": "ホール（Hall, D. T.）が提唱するプロティアン・キャリアの特徴について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "プロティアン・キャリア"
+        ],
         "human": [
           "ホール（Hall, D. T.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問10": {
@@ -2513,14 +2694,15 @@
       },
       "brief": "シャイン（Schein, E. H.）が提唱する3つのサイクルの相互作用モデルについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "シャイン（Schein, E. H.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問11": {
@@ -2536,17 +2718,23 @@
       },
       "brief": "人物と理論等の組み合わせについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "内観療法",
+          "フォーカシング",
+          "系統的脱感作法",
+          "交流分析"
+        ],
         "human": [
           "ウォルピ（Wolpe, J）",
           "ジェンドリン（Gendlin, E. T.）",
           "バーン（Berne, E.）",
           "森田正馬"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問12": {
@@ -2562,12 +2750,15 @@
       },
       "brief": "行動療法における「モデリング」について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "行動療法"
+        ],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問13": {
@@ -2583,12 +2774,15 @@
       },
       "brief": "求職者支援制度の対象者の要件について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": [
+          "求職者支援制度"
+        ]
       }
     },
     "問14": {
@@ -2604,12 +2798,15 @@
       },
       "brief": "労働者の自律的・主体的な学び・学び直しを促進するために経営側が行う支援について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「職場における学び・学び直し促進ガイドライン」（厚生労働省、令和4年）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問15": {
@@ -2625,12 +2822,17 @@
       },
       "brief": "人材育成に取り組む事業主等に対する支援について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": [
+          "キャリアアップ助成金",
+          "セルフ・キャリアドック",
+          "生産性向上人材育成支援センター"
+        ]
       }
     },
     "問16": {
@@ -2646,12 +2848,15 @@
       },
       "brief": "「第11次職業能力開発基本計画」について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「第11次職業能力開発基本計画」（厚生労働省、令和3年4月）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問17": {
@@ -2667,12 +2872,15 @@
       },
       "brief": "教育訓練給付制度について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": [
+          "教育訓練給付制度"
+        ]
       }
     },
     "問18": {
@@ -2688,12 +2896,15 @@
       },
       "brief": "高度プロフェッショナル制度について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "高度プロフェッショナル制度"
+        ],
+        "support": []
       }
     },
     "問19": {
@@ -2709,14 +2920,15 @@
       },
       "brief": "ハーシーとブランチャード（Hersey, P. & Blanchard, K. H.）の提唱したSL（Situational Leadership）理論について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "ハーシーとブランチャード（Hersey, P. & Blanchard, K. H.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問20": {
@@ -2732,12 +2944,13 @@
       },
       "brief": "雇用・失業情勢の動向について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問21": {
@@ -2753,12 +2966,13 @@
       },
       "brief": "労働についての政府統計について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問22": {
@@ -2774,12 +2988,13 @@
       },
       "brief": "賃金について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問23": {
@@ -2795,12 +3010,13 @@
       },
       "brief": "労働関係法令における労働者の概念について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問24": {
@@ -2816,12 +3032,13 @@
       },
       "brief": "出向・転籍について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問25": {
@@ -2837,12 +3054,13 @@
       },
       "brief": "時間外労働・休日労働割増賃金について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問26": {
@@ -2858,12 +3076,13 @@
       },
       "brief": "労働条件について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問27": {
@@ -2879,12 +3098,13 @@
       },
       "brief": "学校教育における進路指導について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問28": {
@@ -2900,12 +3120,13 @@
       },
       "brief": "文部科学省が進めるキャリア教育について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問29": {
@@ -2921,12 +3142,13 @@
       },
       "brief": "インターンシップについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問30": {
@@ -2942,12 +3164,13 @@
       },
       "brief": "職場におけるメンタルヘルス対策等について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問31": {
@@ -2963,12 +3186,13 @@
       },
       "brief": "労働安全衛生法に基づくストレスチェックの実施ならびに安全配慮義務の実施にかかる、事業者の対応例について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問32": {
@@ -2984,12 +3208,13 @@
       },
       "brief": "多文化キャリアカウンセリングについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問33": {
@@ -3005,12 +3230,13 @@
       },
       "brief": "ひきこもりについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問34": {
@@ -3026,12 +3252,13 @@
       },
       "brief": "カウンセリング技法の一つである「開かれた質問」について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問35": {
@@ -3047,12 +3274,13 @@
       },
       "brief": "マイクロカウンセリングにおける、カウンセラーの自己開示について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問36": {
@@ -3068,14 +3296,15 @@
       },
       "brief": "ベーシック・エンカウンター・グループについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "ロジャーズ（Rogers, C. R.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問37": {
@@ -3091,12 +3320,13 @@
       },
       "brief": "職務経歴書について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問38": {
@@ -3112,12 +3342,13 @@
       },
       "brief": "カウンセリング・プロセスについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問39": {
@@ -3133,12 +3364,13 @@
       },
       "brief": "信頼関係の構築について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問40": {
@@ -3154,12 +3386,13 @@
       },
       "brief": "心理テストにおける信頼性について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問41": {
@@ -3175,12 +3408,13 @@
       },
       "brief": "job tag（職業情報提供サイト（日本版O-NET））の検索機能について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問42": {
@@ -3196,12 +3430,13 @@
       },
       "brief": "キャリアコンサルティングにおける「啓発的経験」について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問43": {
@@ -3217,12 +3452,13 @@
       },
       "brief": "キャリアコンサルティングにおける意思決定の支援について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問44": {
@@ -3238,12 +3474,13 @@
       },
       "brief": "キャリア・プランの作成支援に活用できるジョブ・カードのキャリア・プランシートおよびキャリア・プラン作成補助シートについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問45": {
@@ -3259,12 +3496,13 @@
       },
       "brief": "職場適応理論に基づく、新たな仕事への適応支援について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問46": {
@@ -3280,12 +3518,13 @@
       },
       "brief": "相談過程の終結について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問47": {
@@ -3301,12 +3540,13 @@
       },
       "brief": "キャリアコンサルタントに必要なネットワークについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問48": {
@@ -3322,12 +3562,13 @@
       },
       "brief": "「キャリアコンサルタントの継続的な学び」についての課題について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問49": {
@@ -3343,12 +3584,13 @@
       },
       "brief": "キャリアコンサルタントが行う自己研鑽について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問50": {
@@ -3364,12 +3606,13 @@
       },
       "brief": "キャリアコンサルタントとしての姿勢について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     }
   },
@@ -3387,12 +3630,13 @@
       },
       "brief": "「令和モデル」について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問2": {
@@ -3408,12 +3652,13 @@
       },
       "brief": "令和5年1年間における就業形態別の労働移動者について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問3": {
@@ -3429,12 +3674,13 @@
       },
       "brief": "労働者のキャリアコンサルティング経験について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問4": {
@@ -3450,14 +3696,15 @@
       },
       "brief": "サビカス（Savickas, M. L.）の提唱するキャリア構築理論について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "サビカス（Savickas, M. L.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問5": {
@@ -3473,14 +3720,15 @@
       },
       "brief": "パーソンズ（Parsons, F.）の職業選択理論について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "パーソンズ（Parsons, F.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問6": {
@@ -3496,14 +3744,15 @@
       },
       "brief": "ホール（Hall, D. T.）の理論について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "ホール（Hall, D. T.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問7": {
@@ -3519,14 +3768,15 @@
       },
       "brief": "ホランド（Holland, J. L.）の理論について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "ホランド（Holland, J. L.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問8": {
@@ -3542,14 +3792,15 @@
       },
       "brief": "スーパー（Super, D. E.）のライフステージと発達課題について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "スーパー（Super, D. E.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問9": {
@@ -3565,17 +3816,18 @@
       },
       "brief": "動機づけに関する人物と説明の組み合わせについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "マズロー（Maslow, A. H.）",
           "マクレランド（McClelland, D. C.）",
           "アルダファ（Alderfer, C. P.）",
           "ハーズバーグ（Herzberg, F.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問10": {
@@ -3591,14 +3843,15 @@
       },
       "brief": "マーシャ（Marcia, J. E.）が示したアイデンティティ・ステイタスの「アイデンティティ拡散」について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "マーシャ（Marcia, J. E.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問11": {
@@ -3614,17 +3867,18 @@
       },
       "brief": "人物と理論等の組み合わせについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "エリス（Ellis, A.）",
           "デュセイ（Dusay, J. M.）",
           "フランクル（Frankl, V. E.）",
           "吉本伊信"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問12": {
@@ -3640,14 +3894,15 @@
       },
       "brief": "交流分析について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "バーン（Berne, E.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問13": {
@@ -3663,12 +3918,13 @@
       },
       "brief": "在職者等の学び・学び直しの促進のための公的な支援策について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問14": {
@@ -3684,12 +3940,13 @@
       },
       "brief": "労働者のキャリア形成支援について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問15": {
@@ -3705,12 +3962,15 @@
       },
       "brief": "教育訓練給付制度について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": [
+          "教育訓練給付制度"
+        ]
       }
     },
     "問16": {
@@ -3726,12 +3986,15 @@
       },
       "brief": "ハロートレーニング（公的職業訓練）について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": [
+          "ハロートレーニング（公的職業訓練）"
+        ]
       }
     },
     "問17": {
@@ -3747,12 +4010,15 @@
       },
       "brief": "就職差別に繋がる恐れがあるとして採用選考時に配慮すべき把握項目について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「公正な採用選考の基本」（厚生労働省）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問18": {
@@ -3768,12 +4034,16 @@
       },
       "brief": "企業における人材開発について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "OJT",
+          "Off-JT"
+        ],
+        "support": []
       }
     },
     "問19": {
@@ -3789,12 +4059,15 @@
       },
       "brief": "副業・兼業における企業の対応について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「副業・兼業の促進に関するガイドライン」（厚生労働省、令和4年改定）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問20": {
@@ -3810,12 +4083,15 @@
       },
       "brief": "わが国の労働市場の変化について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「労働力調査（基本集計）2023年（令和５年）平均結果」（総務省統計局）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問21": {
@@ -3831,12 +4107,15 @@
       },
       "brief": "労働者を取り巻く環境の動向について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「令和6年版労働経済の分析」（厚生労働省）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問22": {
@@ -3852,12 +4131,15 @@
       },
       "brief": "わが国の女性の就業状況について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「令和6年版男女共同参画白書」（内閣府）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問23": {
@@ -3873,12 +4155,15 @@
       },
       "brief": "雇用保険制度について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "雇用保険制度"
+        ],
+        "support": []
       }
     },
     "問24": {
@@ -3894,12 +4179,15 @@
       },
       "brief": "年次有給休暇について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "年次有給休暇"
+        ],
+        "support": []
       }
     },
     "問25": {
@@ -3915,12 +4203,15 @@
       },
       "brief": "労働基準法上の労働時間について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
-        "law": [],
-        "other": []
+        "tool": [],
+        "law": [
+          "労働基準法"
+        ],
+        "other_term": [],
+        "support": []
       }
     },
     "問26": {
@@ -3936,12 +4227,15 @@
       },
       "brief": "労働者災害補償保険制度について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "労働者災害補償保険制度"
+        ],
+        "support": []
       }
     },
     "問27": {
@@ -3957,12 +4251,15 @@
       },
       "brief": "「キャリア・パスポート」について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [
+          "キャリア・パスポート"
+        ],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問28": {
@@ -3978,12 +4275,17 @@
       },
       "brief": "インターンシップの意義について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「インターンシップを始めとする学生のキャリア形成支援に係る取組の推進に当たっての基本的考え方」（文部科学省・厚生労働省・経済産業省、令和4年一部改正）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "インターンシップ"
+        ],
+        "support": []
       }
     },
     "問29": {
@@ -3999,12 +4301,15 @@
       },
       "brief": "生徒指導とキャリア教育について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「生徒指導提要（改訂版）」（文部科学省、令和4年）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問30": {
@@ -4020,12 +4325,15 @@
       },
       "brief": "発達障害のある人の特徴的な傾向や状況について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "発達障害"
+        ],
+        "support": []
       }
     },
     "問31": {
@@ -4041,12 +4349,20 @@
       },
       "brief": "メンタルヘルスケアについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「職場における心の健康づくり（労働者の心の健康の保持増進のための指針）」（独立行政法人労働者健康安全機構、2024年）",
+          "「令和5年 労働安全衛生調査（実態調査）の概況」（厚生労働省）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "メンタルヘルスケア",
+          "ストレス反応",
+          "ストレスチェック制度"
+        ],
+        "support": []
       }
     },
     "問32": {
@@ -4062,12 +4378,15 @@
       },
       "brief": "障害者への合理的配慮の事例について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "合理的配慮"
+        ],
+        "support": []
       }
     },
     "問33": {
@@ -4083,12 +4402,13 @@
       },
       "brief": "病気の治療と仕事の両立支援について適切なものの組み合わせを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問34": {
@@ -4104,12 +4424,15 @@
       },
       "brief": "キャリアコンサルティングにおける「キャリア」の意味や意義について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "キャリア"
+        ],
+        "support": []
       }
     },
     "問35": {
@@ -4125,12 +4448,15 @@
       },
       "brief": "カウンセリングにおけるクライエントとの信頼関係（ラポール）について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "信頼関係（ラポール）"
+        ],
+        "support": []
       }
     },
     "問36": {
@@ -4146,12 +4472,16 @@
       },
       "brief": "構成的グループエンカウンターについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "構成的グループエンカウンター",
+          "ゲシュタルト療法"
+        ],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問37": {
@@ -4167,12 +4497,15 @@
       },
       "brief": "オンラインで提供されるマイジョブ・カードにおけるキャリア・プラン作成補助シートについて不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": [
+          "マイジョブ・カード"
+        ]
       }
     },
     "問38": {
@@ -4188,12 +4521,13 @@
       },
       "brief": "カウンセリングにおける「見立て」について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問39": {
@@ -4209,12 +4543,15 @@
       },
       "brief": "job tag（職業情報提供サイト（日本版O-NET））の「自己診断ツール」に含まれている心理テストについて適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": [
+          "job tag（職業情報提供サイト（日本版O-NET））"
+        ]
       }
     },
     "問40": {
@@ -4230,14 +4567,15 @@
       },
       "brief": "キャリアコンサルティングにおける「自己理解の支援」について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [
           "ホランド（Holland, J. L.）"
         ],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問41": {
@@ -4253,12 +4591,16 @@
       },
       "brief": "「職業理解・職業情報」について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "日本標準職業分類",
+          "厚生労働省編職業分類"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問42": {
@@ -4274,12 +4616,15 @@
       },
       "brief": "職業体験の意義について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "職業体験"
+        ],
+        "support": []
       }
     },
     "問43": {
@@ -4295,12 +4640,15 @@
       },
       "brief": "システマティック・アプローチの一般的な指針について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [
+          "システマティック・アプローチ"
+        ],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問44": {
@@ -4316,12 +4664,13 @@
       },
       "brief": "「将来、海外の大学院でマネジメントを学びたい」という目標を持つクライエント（大学生）への意思決定のプロセスでの対応について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問45": {
@@ -4337,12 +4686,13 @@
       },
       "brief": "方策の実行について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問46": {
@@ -4358,12 +4708,13 @@
       },
       "brief": "方策の実行後の支援について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問47": {
@@ -4379,12 +4730,15 @@
       },
       "brief": "キャリアコンサルタントの推奨される取り組み例について適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
-        "document": [],
+        "document": [
+          "「職場における学び・学び直し促進ガイドライン」（厚生労働省、令和4年6月）"
+        ],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問48": {
@@ -4400,12 +4754,15 @@
       },
       "brief": "セルフ・キャリアドック実施後の結果や、結果を活かした環境への働きかけについて適切なものの組み合わせを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": [
+          "セルフ・キャリアドック"
+        ]
       }
     },
     "問49": {
@@ -4421,12 +4778,13 @@
       },
       "brief": "キャリアコンサルタントの自己研鑽について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [],
+        "support": []
       }
     },
     "問50": {
@@ -4442,12 +4800,15 @@
       },
       "brief": "キャリアコンサルティングにおける多重関係について不適切なものを問う",
       "words": {
-        "theory": [],
+        "career_term": [],
         "human": [],
-        "mental": [],
         "document": [],
+        "tool": [],
         "law": [],
-        "other": []
+        "other_term": [
+          "多重関係"
+        ],
+        "support": []
       }
     }
   }
