@@ -1,5 +1,5 @@
 {
-  "career_counseling": [
+  "theories": [
     {
       "マイクロカウンセリング（マイクロ技法）": {
         "relevant_humans": [
@@ -57,23 +57,7 @@
           "※未記載"
         ]
       },
-      "論理療法": {
-        "relevant_humans": [
-          "エリス（Ellis, A.）"
-        ],
-        "desc": [
-          "※未記載"
-        ]
-      },
-      "論理情動療法": {
-        "relevant_humans": [
-          "エリス（Ellis, A.）"
-        ],
-        "desc": [
-          "※未記載"
-        ]
-      },
-      "論理情動行動療法": {
+      "論理療法（論理情動療法、論理情動行動療法）": {
         "relevant_humans": [
           "エリス（Ellis, A.）"
         ],
@@ -86,7 +70,7 @@
           "エリス（Ellis, A.）"
         ],
         "desc": [
-          "※未記載"
+          "-"
         ]
       },
       "ヘルピング技法": {
@@ -489,9 +473,6 @@
   "disabilities": [
     {
       "": {
-        "relevant_humans": [
-          ""
-        ],
         "desc": [
           "-"
         ]
@@ -501,9 +482,6 @@
   "support_systems": [
     {
       "サポステ（地域若者サポートステーション）": {
-        "summary": [
-          ""
-        ],
         "desc": [
           "-"
         ]
